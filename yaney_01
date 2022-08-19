@@ -1,25 +1,12 @@
-proxies:
-- {"name":"_01 |96.01Mb","server":"162.251.61.47","type":"ss","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"_02 |43.09Mb","server":"149.202.82.172","type":"ss","port":7002,"udp":true,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
-- {"name":"_04 | 5.15Mb","server":"38.114.114.69","type":"ss","port":8119,"password":"cdBIDV42DCwnfIN","cipher":"aes-256-gcm"}
-- {"name":"_05 |29.47Mb","server":"213.183.59.229","type":"ss","port":9079,"udp":true,"password":"TPqX8edgbAURcAMb","cipher":"aes-256-cfb"}
-- {"name":"_06 |42.37Mb","server":"38.114.114.69","type":"ss","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
-- {"name":"_07 |32.26Mb","server":"38.114.114.69","type":"ss","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
-- {"name":"_08 | 8.07Mb","server":"213.183.59.229","type":"ss","port":9050,"udp":true,"password":"FG5ddLsMPbV5CutE","cipher":"aes-256-cfb"}
-- {"name":"_09 | 9.43Mb","server":"38.91.100.207","type":"ss","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
-- {"name":"_10 |128.21Mb","server":"51.161.118.38","type":"ss","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"_12 |30.86Mb","server":"213.183.59.229","type":"ss","port":9020,"udp":true,"password":"BNmAXXxAHYpTRdzu","cipher":"aes-256-cfb"}
-- {"name":"_13 |131.26Mb","server":"51.161.118.38","type":"ss","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"_14 |47.51Mb","server":"92.223.65.31","type":"ss","port":29092,"udp":true,"password":"ypoq8dJBPqst","cipher":"chacha20-ietf-poly1305"}
-- {"name":"_15 | 8.21Mb","server":"167.88.61.50","type":"ss","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
-- {"name":"_16 |117.10Mb","server":"51.161.118.38","type":"ss","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"_17 |72.51Mb","server":"51.161.118.38","type":"ss","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
-- {"name":"_18 |94.45Mb","server":"129.146.133.157","type":"vmess","port":51009,"uuid":"81714cef-9bde-4a08-aa50-d6bc0172d78b","alterId":0,"cipher":"auto","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"_19 |70.00Mb","server":"23.230.146.254","type":"vmess","port":1258,"uuid":"edeb41cc-a76a-47f2-fa96-b9141e66a2b0","alterId":0,"cipher":"auto","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"_20 |22.80Mb","server":"129.159.41.233","type":"vmess","port":32586,"uuid":"341a9182-c423-499c-c46e-d17838b29037","alterId":0,"cipher":"auto","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"_21 | 7.02Mb","server":"168.138.207.66","type":"vmess","port":21365,"uuid":"905f99b1-e7ba-45e0-ae4d-b0ffdf0ad245","alterId":0,"cipher":"auto","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
-- {"name":"_22 |22.15Mb","server":"t04.ssrsub.com","type":"trojan","port":852,"password":"f1da490c-b4ea-490f-9b5e-15620751414c","sni":"d76bb35696.wns.windows.com","skip-cert-verify":true}
-- {"name":"_23 | 8.83Mb","server":"t03.ssrsub.com","type":"trojan","port":1852,"password":"f1da490c-b4ea-490f-9b5e-15620751414c","sni":"d76bb35696.wns.windows.com","skip-cert-verify":true}
-- {"name":"_24 |21.68Mb","server":"t04.ssrsub.com","type":"trojan","port":852,"password":"d8713e9c-b73d-4179-bddf-b975847ec6f5","sni":"d76bb35696.wns.windows.com","skip-cert-verify":true}
-- {"name":"_25 | 8.98Mb","server":"t03.ssrsub.com","type":"trojan","port":1852,"password":"d8713e9c-b73d-4179-bddf-b975847ec6f5","sni":"d76bb35696.wns.windows.com","skip-cert-verify":true}
-- {"name":"🇦🇺AU_26 |10.58Mb","server":"185.167.116.253","type":"ss","country":"🇦🇺AU","port":9043,"password":"HSZuyJQcWe8dxNdF","cipher":"aes-256-cfb"}
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s4.hazz.win:12340#%5Btrojan%5D%F0%9F%87%B8%F0%9F%87%AC%5BSG%5Ds4.hazz.win%3A12340%28dfbf0d67-f03d-4184-a224-c2d64a571f99%29
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340#%5Btrojan%5D%F0%9F%87%BA%F0%9F%87%B8%5BUS%5Ds3.hazz.win%3A12340%28dfbf0d67-f03d-4184-a224-c2d64a571f99%29
+trojan://2f606ee8-3cfa-30b2-a191-f88efe912f5c@pp1.zhengzhongfeizhu.xyz:32002#%5Btrojan%5D%F0%9F%87%A8%F0%9F%87%B3%5BCN%5Dpp1.zhengzhongfeizhu.xyz%3A32002%282f606ee8-3cfa-30b2-a191-f88efe912f5c%29
+trojan://eb2f8154-ff58-3b99-b393-28c8eecdbe64@pp1.zhengzhongfeizhu.xyz:32000#%5Btrojan%5D%F0%9F%87%A8%F0%9F%87%B3%5BCN%5Dpp1.zhengzhongfeizhu.xyz%3A32000%28eb2f8154-ff58-3b99-b393-28c8eecdbe64%29
+trojan://84773125-8f79-481c-a80b-e1f4aad86850@kr1.api-aws.com:443#%5Btrojan%5D%F0%9F%87%B0%F0%9F%87%B7%5BKR%5Dkr1.api-aws.com%3A443%2884773125-8f79-481c-a80b-e1f4aad86850%29
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s2.hazz.win:12340#%5Btrojan%5D%F0%9F%87%B8%F0%9F%87%AC%5BSG%5Ds2.hazz.win%3A12340%28dfbf0d67-f03d-4184-a224-c2d64a571f99%29
+trojan://eb2f8154-ff58-3b99-b393-28c8eecdbe64@iiiieeepppplll.zhengzhongfeizhu.xyz:34003#%5Btrojan%5D%F0%9F%87%A8%F0%9F%87%B3%5BCN%5Diiiieeepppplll.zhengzhongfeizhu.xyz%3A34003%28eb2f8154-ff58-3b99-b393-28c8eecdbe64%29
+trojan://177501cc-f0c2-3cc3-b9a7-8c1e8e27655f@iiiieeepppplll.zhengzhongfeizhu.xyz:34002#%5Btrojan%5D%F0%9F%87%A8%F0%9F%87%B3%5BCN%5Diiiieeepppplll.zhengzhongfeizhu.xyz%3A34002%28177501cc-f0c2-3cc3-b9a7-8c1e8e27655f%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxN0AxMzguNjguMjQ4LjEzMDo4MTE=#%5Bss%5D%F0%9F%87%BA%F0%9F%87%B8%5BUS%5D138.68.248.130%3A811%28r00t_2017%29
+trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30003#%5Btrojan%5D%F0%9F%87%A8%F0%9F%87%B3%5BCN%5Dcm.spacez.cloud%3A30003%28c9a3a61d-5d49-4158-9e60-6fa32684b122%29
+trojan://7688df6f-bf65-3368-b55e-d78efea6a582@pp1.zhengzhongfeizhu.xyz:32001#%5Btrojan%5D%F0%9F%87%A8%F0%9F%87%B3%5BCN%5Dpp1.zhengzhongfeizhu.xyz%3A32001%287688df6f-bf65-3368-b55e-d78efea6a582%29
+trojan://2f606ee8-3cfa-30b2-a191-f88efe912f5c@iiiieeepppplll.zhengzhongfeizhu.xyz:34004#%5Btrojan%5D%F0%9F%87%A8%F0%9F%87%B3%5BCN%5Diiiieeepppplll.zhengzhongfeizhu.xyz%3A34004%282f606ee8-3cfa-30b2-a191-f88efe912f5c%29
