@@ -1,14 +1,13 @@
-http=120.233.7.54:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-host=h63956.waihuizhibiaowang.com, tag=🇭🇰 香港 1
-trojan=ttt1.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=🇺🇸 美国 2
-trojan=ttt2.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=🇭🇰 香港 2
-trojan=ttt3.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=🇸🇬 新加坡 4
-trojan=ttt4.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=🇭🇰 香港 3
-trojan=jp666.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=🇯🇵 日本 1
-trojan=us.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=🇺🇸 美国 1
-shadowsocks = nk1.boom.skin:11000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=441548:D84Cy7, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=🇭🇰 香港 4
-shadowsocks = nk2.boom.skin:12000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=441548:D84Cy7, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=🇭🇰 香港 5
-shadowsocks = nk3.boom.skin:13000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=441548:D84Cy7, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=🇭🇰 香港 6
-shadowsocks = nk4.boom.skin:14000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=441548:D84Cy7, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=🇭🇰 香港 8
-shadowsocks = nk5.boom.skin:15000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=441548:D84Cy7, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=🇭🇰 香港 9
-shadowsocks = nk6.boom.skin:16000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=441548:D84Cy7, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=🇭🇰 香港 11
-shadowsocks = nk7.boom.skin:17000, method=aes-256-cfb, password=Uk92CS, ssr-protocol=auth_aes128_sha1, ssr-protocol-param=441548:D84Cy7, obfs=http_simple, obfs-host=download.windowsupdate.com, fast-open=false, udp-relay=false, tag=🇭🇰 香港 14
+http=120.233.7.54:11545, username=dcf12c7e7d, password=26bae9b023, over-tls=true, tls-host=h63956.waihuizhibiaowang.com, tag=HK｜VPN¹
+
+trojan=ttt1.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=US｜VPN²
+
+trojan=ttt2.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=HK｜VPN³
+
+trojan=ttt3.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=SG｜VPN⁴
+
+trojan=ttt4.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=HK｜VPN⁵
+
+trojan=jp666.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=JP｜VPN⁶
+
+trojan=us.swiftfalcon.app:8443, password=coldwar2, over-tls=true, tag=US｜VPN⁷
