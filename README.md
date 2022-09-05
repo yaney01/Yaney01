@@ -3,7 +3,7 @@
 ### 🔔 加入频道获取更多高速节点、机场订阅、TG代理等等  
 ***
 ### 🔗 频道永久订阅
-   https://ghproxy.com/https://raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01
+   https://ghproxy.com//raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01
 ### 👉 订阅转换
    https://sub.v1.mk/
 ***
