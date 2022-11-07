@@ -4,7 +4,7 @@
 ***
 ### 🔗 频道永久订阅
    https://ghproxy.com//raw.githubusercontent.com/yaney01/Yaney01/main/yaney_01
-### 👉  订阅转换
+### 👉 订阅转换
    https://sub.v1.mk/
 ***
 #### 建议每天更新下订阅
