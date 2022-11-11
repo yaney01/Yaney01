@@ -1,9 +1,9 @@
 #
 #-------------------------------------------------------------#
 #  创建者：https://v2rayse.com
-#  创建时间：2022-11-11 09:11:05
+#  创建时间：2022-11-12 07:30:35
 #  模版：ACL4SSR_WithGFW
-#  节点数量：15
+#  节点数量：40
 #-------------------------------------------------------------#
 #
 mixed-port: 7890
@@ -22,144 +22,350 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {"type":"trojan","name":"香港+02+|+1x+HK","server":"5m4h0k02.mcfront.xyz","port":31606,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"hk02.lovemc.xyz"}
-  - {"type":"trojan","name":"韩国+01+|+1x+KR","server":"8l2k1r01.mcfront.xyz","port":31401,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"kr01.lovemc.xyz"}
-  - {"type":"trojan","name":"日本+03++|+1x+JP","server":"6w7j3p03.mcfront.xyz","port":31111,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"jp03.lovemc.xyz"}
-  - {"type":"trojan","name":"台湾+02++|+1x+TWN","server":"2d1t5w02.mcfront.xyz","port":31306,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"tw02.lovemc.xyz"}
-  - {"type":"trojan","name":"日本+01+|+1x+JP","server":"6w7j3p01.mcfront.xyz","port":31116,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"jp01.lovemc.xyz"}
-  - {"type":"trojan","name":"香港+01+|+1x+HK","server":"5m4h0k01.mcfront.xyz","port":31601,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"hk01.lovemc.xyz"}
-  - {"type":"trojan","name":"新加坡+01++|+1x+SG","server":"1c7s2g01.mcfront.xyz","port":31201,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"sg01.lovemc.xyz"}
-  - {"type":"trojan","name":"香港+03+|+1x+HK","server":"5m4h0k03.mcfront.xyz","port":31611,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"hk03.lovemc.xyz"}
-  - {"type":"trojan","name":"台湾+01++|+1x+TWN","server":"2d1t5w01.mcfront.xyz","port":31301,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"tw01.lovemc.xyz"}
-  - {"type":"trojan","name":"台湾+03++|+1x+TWN","server":"2d1t5w06.mcfront.xyz","port":31311,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"tw03.lovemc.xyz"}
-  - {"type":"trojan","name":"美国+01+|+1x+US","server":"4a2u0a01.mcfront.xyz","port":31501,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"us01.lovemc.xyz"}
-  - {"type":"trojan","name":"新加坡+02+|+1x+SG","server":"1c7s2g02.mcfront.xyz","port":31206,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"sg02.lovemc.xyz"}
-  - {"type":"trojan","name":"加拿大+01+|+1x+CA","server":"3d1c4a01.mcfront.xyz","port":31701,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"ca01.lovemc.xyz"}
-  - {"type":"trojan","name":"新加坡+03+|+1x+SG","server":"1c7s2g03.mcfront.xyz","port":31211,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"sg03.lovemc.xyz"}
-  - {"type":"trojan","name":"日本+02++|+1x+JP","server":"6w7j3p02.mcfront.xyz","port":31106,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"jp02.lovemc.xyz"}
+  - {"type":"ss","name":"🇰🇷 KR
+    1","server":"wmk1000mkrliness001.aodunjiasu.info","port":1443,"cipher":"aes-256-gcm","password":"d34783527938","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"wmk1000Mkrliness001.aodunjiasu.info"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    2","server":"exkkdx600mtwlines008.fnline.me","port":443,"cipher":"chacha20-ietf-poly1305","password":"c9022610bd94","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"exkkdx600mtwlines008.fnline.me"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    3","server":"newtw600mlines003.feijijiasu.club","port":2993,"cipher":"chacha20-ietf-poly1305","password":"71324cc14236","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"newtw600mlines003.feijijiasu.club"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    4","server":"exkkdx600mtwlines008.fnline.me","port":443,"cipher":"chacha20-ietf-poly1305","password":"c9022610bd94","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"exkkdx600mtwlines008.fnline.me"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    5","server":"mk002tw600.feijijiasu.club","port":995,"cipher":"chacha20-ietf-poly1305","password":"56fbd111b4b9","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"mk002tw600.feijijiasu.club"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    6","server":"tw600ss002.feijijiasu.club","port":995,"cipher":"chacha20-ietf-poly1305","password":"188ec879fef8","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"tw600ss002.feijijiasu.club"}}
+  - {"type":"ss","name":"🇺🇸 US
+    7","server":"fnhk1000snews004.svcline.com","port":995,"cipher":"aes-256-gcm","password":"5e48b393b4cf","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fnhk1000snews004.svcline.com"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    8","server":"fn600mlines023.fnline.info","port":443,"cipher":"chacha20-ietf-poly1305","password":"4a386af7970a","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mlines023.fnline.info"}}
+  - {"type":"ss","name":"","server":"fn600mlines006.fnline.vip","port":443,"cipher":"chacha20-ietf-poly1305","password":"39528bf4d4a3","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mlines006.fnline.vip"}}
+  - {"type":"ss","name":"","server":"fn600mlines007.fnline.vip","port":443,"cipher":"chacha20-ietf-poly1305","password":"8ba8a2d2250c","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mlines007.fnline.vip"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    11","server":"mktw600mline005.kuainiaojs.club","port":465,"cipher":"chacha20-ietf-poly1305","password":"91b2a9da9867","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"mktw600mline005.kuainiaojs.club"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    12","server":"fn600mlines024.svcline.com","port":995,"cipher":"aes-256-gcm","password":"a801632d2e2e","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mlines024.svcline.com"}}
+  - {"type":"ss","name":"","server":"mk001tw600.feijijiasu.club","port":443,"cipher":"chacha20-ietf-poly1305","password":"abe56430659e","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"mk001tw600.feijijiasu.club"}}
+  - {"type":"ss","name":"","server":"newtw600mline001.fnline.me","port":443,"cipher":"chacha20-ietf-poly1305","password":"d3111300c9a1","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"newtw600mline001.fnline.me"}}
+  - {"type":"ss","name":"","server":"fnmk003tw600lines.fnline.me","port":5465,"cipher":"chacha20-ietf-poly1305","password":"faa9fe2d7045","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fnmk003tw600lines.fnline.me"}}
+  - {"type":"ss","name":"","server":"fnmk001tw600lines.fnline.me","port":1995,"cipher":"chacha20-ietf-poly1305","password":"c3bb2ed46cc7","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fnmk001tw600lines.fnline.me"}}
+  - {"type":"ss","name":"","server":"fn600mtwsliness01.feijijiasu.club","port":4636,"cipher":"chacha20-ietf-poly1305","password":"4c8ce97d88b8","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mtwsliness01.feijijiasu.club"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    18","server":"fn600mlines022.fnline.info","port":443,"cipher":"chacha20-ietf-poly1305","password":"a57a10279872","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mlines022.fnline.info"}}
+  - {"type":"ss","name":"🇺🇸 US
+    19","server":"fnhk1000snews006.svcline.com","port":995,"cipher":"aes-256-gcm","password":"f61bebe3896e","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fnhk1000snews006.svcline.com"}}
+  - {"type":"ss","name":"🇺🇸 US
+    20","server":"wxw1000musliness012re.aodunjiasu.info","port":4993,"cipher":"aes-256-gcm","password":"e2c4cfb9b845","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"wxw1000musliness012re.aodunjiasu.info"}}
+  - {"type":"ss","name":"","server":"mktw1glines002.aodunjiasu.info","port":995,"cipher":"aes-256-gcm","password":"7f9357a05d52","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"mktw1glines002.aodunjiasu.info"}}
+  - {"type":"ss","name":"","server":"tw600ss001.feijijiasu.club","port":2995,"cipher":"chacha20-ietf-poly1305","password":"4af784ec15d1","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"tw600ss001.feijijiasu.club"}}
+  - {"type":"ss","name":"🇺🇸 US
+    23","server":"wxw1000muslinenews001.aodunjiasu.info","port":2465,"cipher":"aes-256-gcm","password":"4c02b92c323e","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"wxw1000muslinenews001.aodunjiasu.info"}}
+  - {"type":"ss","name":"🇯🇵 JP
+    24","server":"wxws1000muslines01re.aodunjiasu.info","port":4993,"cipher":"aes-256-gcm","password":"3aefae764317","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"wxws1000muslines01re.aodunjiasu.info"}}
+  - {"type":"ss","name":"🇱🇹 LT
+    25","server":"fn100mltvline001new.svcline.com","port":995,"cipher":"aes-256-gcm","password":"7b5aae227a6b","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn100mltvline001new.svcline.com"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    26","server":"fn600mlines023.fnline.info","port":443,"cipher":"chacha20-ietf-poly1305","password":"4a386af7970a","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mlines023.fnline.info"}}
+  - {"type":"ss","name":"🇺🇸 US
+    27","server":"wxw1000muslines004re.aodunjiasu.info","port":2465,"cipher":"aes-256-gcm","password":"708e12ed97a3","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"wxw1000muslines004re.aodunjiasu.info"}}
+  - {"type":"ss","name":"🇺🇸 US
+    28","server":"fnhk1000snews008.svcline.com","port":995,"cipher":"aes-256-gcm","password":"3c88ec132b66","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fnhk1000snews008.svcline.com"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    29","server":"fn600mlines022.fnline.info","port":443,"cipher":"chacha20-ietf-poly1305","password":"a57a10279872","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mlines022.fnline.info"}}
+  - {"type":"ss","name":"🇹🇭 TH
+    30","server":"wxw1glt001.fengchijs.info","port":4993,"cipher":"aes-256-gcm","password":"3136fde51a41","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"wxw1glt001.fengchijs.info"}}
+  - {"type":"ss","name":"🇺🇸 US
+    31","server":"fnhk1000new009.svcline.com","port":995,"cipher":"aes-256-gcm","password":"47b484a2f3eb","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fnhk1000new009.svcline.com"}}
+  - {"type":"ss","name":"🇯🇵 JP
+    32","server":"wxw100mjpline002.aodunjiasu.info","port":1443,"cipher":"aes-256-gcm","password":"9cfdcb908e31","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"wxw100Mjpline002.aodunjiasu.info"}}
+  - {"type":"ss","name":"🇺🇸 US
+    33","server":"wmk1000mkrlines001.fengchijs.info","port":4636,"cipher":"aes-256-gcm","password":"f38364d0c1a2","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"wmk1000Mkrlines001.fengchijs.info"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    34","server":"newtw600mlines003new.feijijiasu.club","port":443,"cipher":"chacha20-ietf-poly1305","password":"f9dcee62de72","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"newtw600mlines003new.feijijiasu.club"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    35","server":"fn600mlines021.svcline.com","port":995,"cipher":"aes-256-gcm","password":"507364fb791e","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mlines021.svcline.com"}}
+  - {"type":"ss","name":"🇹🇼 TW
+    36","server":"fn600mlines008re.fnline.vip","port":443,"cipher":"chacha20-ietf-poly1305","password":"cc05a17e6195","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"fn600mlines008re.fnline.vip"}}
+  - {"type":"ss","name":"🇲🇾 MY
+    37","server":"wmk1gkrliness007.aodunjiasu.info","port":1465,"cipher":"aes-256-gcm","password":"e0ff1e7999a3","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"wmk1gkrliness007.aodunjiasu.info"}}
+  - {"type":"ss","name":"🇺🇸 US
+    38","server":"wxw1000muslines006re.aodunjiasu.info","port":5465,"cipher":"aes-256-gcm","password":"4201da61eaf4","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"wxw1000muslines006re.aodunjiasu.info"}}
+  - {"type":"ss","name":"🇭🇰 HK
+    39","server":"hkm1000mline010.kuainiaojs.info","port":443,"cipher":"chacha20-ietf-poly1305","password":"6886e7e6252f","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"hkm1000mline010.kuainiaojs.info"}}
+  - {"type":"ss","name":"🇺🇸 US
+    40","server":"wxw1000muslinenews002.fengchijs.co","port":4993,"cipher":"aes-256-gcm","password":"52bd6e36f399","plugin":"v2ray-plugin","plugin-opts":{"mode":"websocket","mux":true,"skip-cert-verify":true,"path":"/","host":"wxw1000muslinenews002.fengchijs.co"}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 香港+02+|+1x+HK
-      - 韩国+01+|+1x+KR
-      - 日本+03++|+1x+JP
-      - 台湾+02++|+1x+TWN
-      - 日本+01+|+1x+JP
-      - 香港+01+|+1x+HK
-      - 新加坡+01++|+1x+SG
-      - 香港+03+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 台湾+03++|+1x+TWN
-      - 美国+01+|+1x+US
-      - 新加坡+02+|+1x+SG
-      - 加拿大+01+|+1x+CA
-      - 新加坡+03+|+1x+SG
-      - 日本+02++|+1x+JP
+      - 🇰🇷 KR 1
+      - 🇹🇼 TW 2
+      - 🇹🇼 TW 3
+      - 🇹🇼 TW 4
+      - 🇹🇼 TW 5
+      - 🇹🇼 TW 6
+      - 🇺🇸 US 7
+      - 🇹🇼 TW 8
+      - ''
+      - ''
+      - 🇹🇼 TW 11
+      - 🇹🇼 TW 12
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - 🇹🇼 TW 18
+      - 🇺🇸 US 19
+      - 🇺🇸 US 20
+      - ''
+      - ''
+      - 🇺🇸 US 23
+      - 🇯🇵 JP 24
+      - 🇱🇹 LT 25
+      - 🇹🇼 TW 26
+      - 🇺🇸 US 27
+      - 🇺🇸 US 28
+      - 🇹🇼 TW 29
+      - 🇹🇭 TH 30
+      - 🇺🇸 US 31
+      - 🇯🇵 JP 32
+      - 🇺🇸 US 33
+      - 🇹🇼 TW 34
+      - 🇹🇼 TW 35
+      - 🇹🇼 TW 36
+      - 🇲🇾 MY 37
+      - 🇺🇸 US 38
+      - 🇭🇰 HK 39
+      - 🇺🇸 US 40
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 香港+02+|+1x+HK
-      - 韩国+01+|+1x+KR
-      - 日本+03++|+1x+JP
-      - 台湾+02++|+1x+TWN
-      - 日本+01+|+1x+JP
-      - 香港+01+|+1x+HK
-      - 新加坡+01++|+1x+SG
-      - 香港+03+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 台湾+03++|+1x+TWN
-      - 美国+01+|+1x+US
-      - 新加坡+02+|+1x+SG
-      - 加拿大+01+|+1x+CA
-      - 新加坡+03+|+1x+SG
-      - 日本+02++|+1x+JP
+      - 🇰🇷 KR 1
+      - 🇹🇼 TW 2
+      - 🇹🇼 TW 3
+      - 🇹🇼 TW 4
+      - 🇹🇼 TW 5
+      - 🇹🇼 TW 6
+      - 🇺🇸 US 7
+      - 🇹🇼 TW 8
+      - ''
+      - ''
+      - 🇹🇼 TW 11
+      - 🇹🇼 TW 12
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - 🇹🇼 TW 18
+      - 🇺🇸 US 19
+      - 🇺🇸 US 20
+      - ''
+      - ''
+      - 🇺🇸 US 23
+      - 🇯🇵 JP 24
+      - 🇱🇹 LT 25
+      - 🇹🇼 TW 26
+      - 🇺🇸 US 27
+      - 🇺🇸 US 28
+      - 🇹🇼 TW 29
+      - 🇹🇭 TH 30
+      - 🇺🇸 US 31
+      - 🇯🇵 JP 32
+      - 🇺🇸 US 33
+      - 🇹🇼 TW 34
+      - 🇹🇼 TW 35
+      - 🇹🇼 TW 36
+      - 🇲🇾 MY 37
+      - 🇺🇸 US 38
+      - 🇭🇰 HK 39
+      - 🇺🇸 US 40
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 香港+02+|+1x+HK
-      - 韩国+01+|+1x+KR
-      - 日本+03++|+1x+JP
-      - 台湾+02++|+1x+TWN
-      - 日本+01+|+1x+JP
-      - 香港+01+|+1x+HK
-      - 新加坡+01++|+1x+SG
-      - 香港+03+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 台湾+03++|+1x+TWN
-      - 美国+01+|+1x+US
-      - 新加坡+02+|+1x+SG
-      - 加拿大+01+|+1x+CA
-      - 新加坡+03+|+1x+SG
-      - 日本+02++|+1x+JP
+      - 🇰🇷 KR 1
+      - 🇹🇼 TW 2
+      - 🇹🇼 TW 3
+      - 🇹🇼 TW 4
+      - 🇹🇼 TW 5
+      - 🇹🇼 TW 6
+      - 🇺🇸 US 7
+      - 🇹🇼 TW 8
+      - ''
+      - ''
+      - 🇹🇼 TW 11
+      - 🇹🇼 TW 12
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - 🇹🇼 TW 18
+      - 🇺🇸 US 19
+      - 🇺🇸 US 20
+      - ''
+      - ''
+      - 🇺🇸 US 23
+      - 🇯🇵 JP 24
+      - 🇱🇹 LT 25
+      - 🇹🇼 TW 26
+      - 🇺🇸 US 27
+      - 🇺🇸 US 28
+      - 🇹🇼 TW 29
+      - 🇹🇭 TH 30
+      - 🇺🇸 US 31
+      - 🇯🇵 JP 32
+      - 🇺🇸 US 33
+      - 🇹🇼 TW 34
+      - 🇹🇼 TW 35
+      - 🇹🇼 TW 36
+      - 🇲🇾 MY 37
+      - 🇺🇸 US 38
+      - 🇭🇰 HK 39
+      - 🇺🇸 US 40
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 香港+02+|+1x+HK
-      - 韩国+01+|+1x+KR
-      - 日本+03++|+1x+JP
-      - 台湾+02++|+1x+TWN
-      - 日本+01+|+1x+JP
-      - 香港+01+|+1x+HK
-      - 新加坡+01++|+1x+SG
-      - 香港+03+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 台湾+03++|+1x+TWN
-      - 美国+01+|+1x+US
-      - 新加坡+02+|+1x+SG
-      - 加拿大+01+|+1x+CA
-      - 新加坡+03+|+1x+SG
-      - 日本+02++|+1x+JP
+      - 🇰🇷 KR 1
+      - 🇹🇼 TW 2
+      - 🇹🇼 TW 3
+      - 🇹🇼 TW 4
+      - 🇹🇼 TW 5
+      - 🇹🇼 TW 6
+      - 🇺🇸 US 7
+      - 🇹🇼 TW 8
+      - ''
+      - ''
+      - 🇹🇼 TW 11
+      - 🇹🇼 TW 12
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - 🇹🇼 TW 18
+      - 🇺🇸 US 19
+      - 🇺🇸 US 20
+      - ''
+      - ''
+      - 🇺🇸 US 23
+      - 🇯🇵 JP 24
+      - 🇱🇹 LT 25
+      - 🇹🇼 TW 26
+      - 🇺🇸 US 27
+      - 🇺🇸 US 28
+      - 🇹🇼 TW 29
+      - 🇹🇭 TH 30
+      - 🇺🇸 US 31
+      - 🇯🇵 JP 32
+      - 🇺🇸 US 33
+      - 🇹🇼 TW 34
+      - 🇹🇼 TW 35
+      - 🇹🇼 TW 36
+      - 🇲🇾 MY 37
+      - 🇺🇸 US 38
+      - 🇭🇰 HK 39
+      - 🇺🇸 US 40
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 香港+02+|+1x+HK
-      - 韩国+01+|+1x+KR
-      - 日本+03++|+1x+JP
-      - 台湾+02++|+1x+TWN
-      - 日本+01+|+1x+JP
-      - 香港+01+|+1x+HK
-      - 新加坡+01++|+1x+SG
-      - 香港+03+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 台湾+03++|+1x+TWN
-      - 美国+01+|+1x+US
-      - 新加坡+02+|+1x+SG
-      - 加拿大+01+|+1x+CA
-      - 新加坡+03+|+1x+SG
-      - 日本+02++|+1x+JP
+      - 🇰🇷 KR 1
+      - 🇹🇼 TW 2
+      - 🇹🇼 TW 3
+      - 🇹🇼 TW 4
+      - 🇹🇼 TW 5
+      - 🇹🇼 TW 6
+      - 🇺🇸 US 7
+      - 🇹🇼 TW 8
+      - ''
+      - ''
+      - 🇹🇼 TW 11
+      - 🇹🇼 TW 12
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - 🇹🇼 TW 18
+      - 🇺🇸 US 19
+      - 🇺🇸 US 20
+      - ''
+      - ''
+      - 🇺🇸 US 23
+      - 🇯🇵 JP 24
+      - 🇱🇹 LT 25
+      - 🇹🇼 TW 26
+      - 🇺🇸 US 27
+      - 🇺🇸 US 28
+      - 🇹🇼 TW 29
+      - 🇹🇭 TH 30
+      - 🇺🇸 US 31
+      - 🇯🇵 JP 32
+      - 🇺🇸 US 33
+      - 🇹🇼 TW 34
+      - 🇹🇼 TW 35
+      - 🇹🇼 TW 36
+      - 🇲🇾 MY 37
+      - 🇺🇸 US 38
+      - 🇭🇰 HK 39
+      - 🇺🇸 US 40
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 香港+02+|+1x+HK
-      - 韩国+01+|+1x+KR
-      - 日本+03++|+1x+JP
-      - 台湾+02++|+1x+TWN
-      - 日本+01+|+1x+JP
-      - 香港+01+|+1x+HK
-      - 新加坡+01++|+1x+SG
-      - 香港+03+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 台湾+03++|+1x+TWN
-      - 美国+01+|+1x+US
-      - 新加坡+02+|+1x+SG
-      - 加拿大+01+|+1x+CA
-      - 新加坡+03+|+1x+SG
-      - 日本+02++|+1x+JP
+      - 🇰🇷 KR 1
+      - 🇹🇼 TW 2
+      - 🇹🇼 TW 3
+      - 🇹🇼 TW 4
+      - 🇹🇼 TW 5
+      - 🇹🇼 TW 6
+      - 🇺🇸 US 7
+      - 🇹🇼 TW 8
+      - ''
+      - ''
+      - 🇹🇼 TW 11
+      - 🇹🇼 TW 12
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - 🇹🇼 TW 18
+      - 🇺🇸 US 19
+      - 🇺🇸 US 20
+      - ''
+      - ''
+      - 🇺🇸 US 23
+      - 🇯🇵 JP 24
+      - 🇱🇹 LT 25
+      - 🇹🇼 TW 26
+      - 🇺🇸 US 27
+      - 🇺🇸 US 28
+      - 🇹🇼 TW 29
+      - 🇹🇭 TH 30
+      - 🇺🇸 US 31
+      - 🇯🇵 JP 32
+      - 🇺🇸 US 33
+      - 🇹🇼 TW 34
+      - 🇹🇼 TW 35
+      - 🇹🇼 TW 36
+      - 🇲🇾 MY 37
+      - 🇺🇸 US 38
+      - 🇭🇰 HK 39
+      - 🇺🇸 US 40
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -182,21 +388,46 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 香港+02+|+1x+HK
-      - 韩国+01+|+1x+KR
-      - 日本+03++|+1x+JP
-      - 台湾+02++|+1x+TWN
-      - 日本+01+|+1x+JP
-      - 香港+01+|+1x+HK
-      - 新加坡+01++|+1x+SG
-      - 香港+03+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 台湾+03++|+1x+TWN
-      - 美国+01+|+1x+US
-      - 新加坡+02+|+1x+SG
-      - 加拿大+01+|+1x+CA
-      - 新加坡+03+|+1x+SG
-      - 日本+02++|+1x+JP
+      - 🇰🇷 KR 1
+      - 🇹🇼 TW 2
+      - 🇹🇼 TW 3
+      - 🇹🇼 TW 4
+      - 🇹🇼 TW 5
+      - 🇹🇼 TW 6
+      - 🇺🇸 US 7
+      - 🇹🇼 TW 8
+      - ''
+      - ''
+      - 🇹🇼 TW 11
+      - 🇹🇼 TW 12
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - 🇹🇼 TW 18
+      - 🇺🇸 US 19
+      - 🇺🇸 US 20
+      - ''
+      - ''
+      - 🇺🇸 US 23
+      - 🇯🇵 JP 24
+      - 🇱🇹 LT 25
+      - 🇹🇼 TW 26
+      - 🇺🇸 US 27
+      - 🇺🇸 US 28
+      - 🇹🇼 TW 29
+      - 🇹🇭 TH 30
+      - 🇺🇸 US 31
+      - 🇯🇵 JP 32
+      - 🇺🇸 US 33
+      - 🇹🇼 TW 34
+      - 🇹🇼 TW 35
+      - 🇹🇼 TW 36
+      - 🇲🇾 MY 37
+      - 🇺🇸 US 38
+      - 🇭🇰 HK 39
+      - 🇺🇸 US 40
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
