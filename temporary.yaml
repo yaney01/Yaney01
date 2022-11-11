@@ -1,4 +1,11 @@
-#  更新不固定
+#
+#-------------------------------------------------------------#
+#  创建者：https://v2rayse.com
+#  创建时间：2022-11-11 09:11:05
+#  模版：ACL4SSR_WithGFW
+#  节点数量：15
+#-------------------------------------------------------------#
+#
 mixed-port: 7890
 allow-lan: true
 mode: Rule
@@ -15,144 +22,144 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {"type":"trojan","name":"新加坡+02+|+1x+SG","server":"1c7s2g02.mcfront.xyz","port":31206,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"sg02.lovemc.xyz"}
-  - {"type":"trojan","name":"韩国+01+|+1x+KR","server":"8l2k1r01.mcfront.xyz","port":31401,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"kr01.lovemc.xyz"}
-  - {"type":"trojan","name":"新加坡+03+|+1x+SG","server":"1c7s2g03.mcfront.xyz","port":31211,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"sg03.lovemc.xyz"}
-  - {"type":"trojan","name":"美国+01+|+1x+US","server":"4a2u0a01.mcfront.xyz","port":31501,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"us01.lovemc.xyz"}
-  - {"type":"trojan","name":"日本+03++|+1x+JP","server":"6w7j3p03.mcfront.xyz","port":31111,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"jp03.lovemc.xyz"}
-  - {"type":"trojan","name":"日本+02++|+1x+JP","server":"6w7j3p02.mcfront.xyz","port":31106,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"jp02.lovemc.xyz"}
-  - {"type":"trojan","name":"香港+01+|+1x+HK","server":"5m4h0k01.mcfront.xyz","port":31601,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"hk01.lovemc.xyz"}
-  - {"type":"trojan","name":"台湾+01++|+1x+TWN","server":"2d1t5w01.mcfront.xyz","port":31301,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"tw01.lovemc.xyz"}
-  - {"type":"trojan","name":"加拿大+01+|+1x+CA","server":"3d1c4a01.mcfront.xyz","port":31701,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"ca01.lovemc.xyz"}
-  - {"type":"trojan","name":"日本+01+|+1x+JP","server":"6w7j3p01.mcfront.xyz","port":31116,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"jp01.lovemc.xyz"}
-  - {"type":"trojan","name":"香港+03+|+1x+HK","server":"5m4h0k03.mcfront.xyz","port":31611,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"hk03.lovemc.xyz"}
-  - {"type":"trojan","name":"台湾+03++|+1x+TWN","server":"2d1t5w06.mcfront.xyz","port":31311,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"tw03.lovemc.xyz"}
-  - {"type":"trojan","name":"新加坡+01++|+1x+SG","server":"1c7s2g01.mcfront.xyz","port":31201,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"sg01.lovemc.xyz"}
-  - {"type":"trojan","name":"香港+02+|+1x+HK","server":"5m4h0k02.mcfront.xyz","port":31606,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"hk02.lovemc.xyz"}
-  - {"type":"trojan","name":"台湾+02++|+1x+TWN","server":"2d1t5w02.mcfront.xyz","port":31306,"password":"6e5bac59-8b11-4629-a7d8-c4ab4c7138f0","udp":true,"skip-cert-verify":true,"sni":"tw02.lovemc.xyz"}
+  - {"type":"trojan","name":"香港+02+|+1x+HK","server":"5m4h0k02.mcfront.xyz","port":31606,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"hk02.lovemc.xyz"}
+  - {"type":"trojan","name":"韩国+01+|+1x+KR","server":"8l2k1r01.mcfront.xyz","port":31401,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"kr01.lovemc.xyz"}
+  - {"type":"trojan","name":"日本+03++|+1x+JP","server":"6w7j3p03.mcfront.xyz","port":31111,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"jp03.lovemc.xyz"}
+  - {"type":"trojan","name":"台湾+02++|+1x+TWN","server":"2d1t5w02.mcfront.xyz","port":31306,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"tw02.lovemc.xyz"}
+  - {"type":"trojan","name":"日本+01+|+1x+JP","server":"6w7j3p01.mcfront.xyz","port":31116,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"jp01.lovemc.xyz"}
+  - {"type":"trojan","name":"香港+01+|+1x+HK","server":"5m4h0k01.mcfront.xyz","port":31601,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"hk01.lovemc.xyz"}
+  - {"type":"trojan","name":"新加坡+01++|+1x+SG","server":"1c7s2g01.mcfront.xyz","port":31201,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"sg01.lovemc.xyz"}
+  - {"type":"trojan","name":"香港+03+|+1x+HK","server":"5m4h0k03.mcfront.xyz","port":31611,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"hk03.lovemc.xyz"}
+  - {"type":"trojan","name":"台湾+01++|+1x+TWN","server":"2d1t5w01.mcfront.xyz","port":31301,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"tw01.lovemc.xyz"}
+  - {"type":"trojan","name":"台湾+03++|+1x+TWN","server":"2d1t5w06.mcfront.xyz","port":31311,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"tw03.lovemc.xyz"}
+  - {"type":"trojan","name":"美国+01+|+1x+US","server":"4a2u0a01.mcfront.xyz","port":31501,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"us01.lovemc.xyz"}
+  - {"type":"trojan","name":"新加坡+02+|+1x+SG","server":"1c7s2g02.mcfront.xyz","port":31206,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"sg02.lovemc.xyz"}
+  - {"type":"trojan","name":"加拿大+01+|+1x+CA","server":"3d1c4a01.mcfront.xyz","port":31701,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"ca01.lovemc.xyz"}
+  - {"type":"trojan","name":"新加坡+03+|+1x+SG","server":"1c7s2g03.mcfront.xyz","port":31211,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"sg03.lovemc.xyz"}
+  - {"type":"trojan","name":"日本+02++|+1x+JP","server":"6w7j3p02.mcfront.xyz","port":31106,"password":"57513684-f3e8-4ce6-8dea-6f7ce1976487","udp":true,"skip-cert-verify":true,"sni":"jp02.lovemc.xyz"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 新加坡+02+|+1x+SG
-      - 韩国+01+|+1x+KR
-      - 新加坡+03+|+1x+SG
-      - 美国+01+|+1x+US
-      - 日本+03++|+1x+JP
-      - 日本+02++|+1x+JP
-      - 香港+01+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 加拿大+01+|+1x+CA
-      - 日本+01+|+1x+JP
-      - 香港+03+|+1x+HK
-      - 台湾+03++|+1x+TWN
-      - 新加坡+01++|+1x+SG
       - 香港+02+|+1x+HK
+      - 韩国+01+|+1x+KR
+      - 日本+03++|+1x+JP
       - 台湾+02++|+1x+TWN
+      - 日本+01+|+1x+JP
+      - 香港+01+|+1x+HK
+      - 新加坡+01++|+1x+SG
+      - 香港+03+|+1x+HK
+      - 台湾+01++|+1x+TWN
+      - 台湾+03++|+1x+TWN
+      - 美国+01+|+1x+US
+      - 新加坡+02+|+1x+SG
+      - 加拿大+01+|+1x+CA
+      - 新加坡+03+|+1x+SG
+      - 日本+02++|+1x+JP
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 新加坡+02+|+1x+SG
-      - 韩国+01+|+1x+KR
-      - 新加坡+03+|+1x+SG
-      - 美国+01+|+1x+US
-      - 日本+03++|+1x+JP
-      - 日本+02++|+1x+JP
-      - 香港+01+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 加拿大+01+|+1x+CA
-      - 日本+01+|+1x+JP
-      - 香港+03+|+1x+HK
-      - 台湾+03++|+1x+TWN
-      - 新加坡+01++|+1x+SG
       - 香港+02+|+1x+HK
+      - 韩国+01+|+1x+KR
+      - 日本+03++|+1x+JP
       - 台湾+02++|+1x+TWN
+      - 日本+01+|+1x+JP
+      - 香港+01+|+1x+HK
+      - 新加坡+01++|+1x+SG
+      - 香港+03+|+1x+HK
+      - 台湾+01++|+1x+TWN
+      - 台湾+03++|+1x+TWN
+      - 美国+01+|+1x+US
+      - 新加坡+02+|+1x+SG
+      - 加拿大+01+|+1x+CA
+      - 新加坡+03+|+1x+SG
+      - 日本+02++|+1x+JP
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 新加坡+02+|+1x+SG
-      - 韩国+01+|+1x+KR
-      - 新加坡+03+|+1x+SG
-      - 美国+01+|+1x+US
-      - 日本+03++|+1x+JP
-      - 日本+02++|+1x+JP
-      - 香港+01+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 加拿大+01+|+1x+CA
-      - 日本+01+|+1x+JP
-      - 香港+03+|+1x+HK
-      - 台湾+03++|+1x+TWN
-      - 新加坡+01++|+1x+SG
       - 香港+02+|+1x+HK
+      - 韩国+01+|+1x+KR
+      - 日本+03++|+1x+JP
       - 台湾+02++|+1x+TWN
+      - 日本+01+|+1x+JP
+      - 香港+01+|+1x+HK
+      - 新加坡+01++|+1x+SG
+      - 香港+03+|+1x+HK
+      - 台湾+01++|+1x+TWN
+      - 台湾+03++|+1x+TWN
+      - 美国+01+|+1x+US
+      - 新加坡+02+|+1x+SG
+      - 加拿大+01+|+1x+CA
+      - 新加坡+03+|+1x+SG
+      - 日本+02++|+1x+JP
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 新加坡+02+|+1x+SG
-      - 韩国+01+|+1x+KR
-      - 新加坡+03+|+1x+SG
-      - 美国+01+|+1x+US
-      - 日本+03++|+1x+JP
-      - 日本+02++|+1x+JP
-      - 香港+01+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 加拿大+01+|+1x+CA
-      - 日本+01+|+1x+JP
-      - 香港+03+|+1x+HK
-      - 台湾+03++|+1x+TWN
-      - 新加坡+01++|+1x+SG
       - 香港+02+|+1x+HK
+      - 韩国+01+|+1x+KR
+      - 日本+03++|+1x+JP
       - 台湾+02++|+1x+TWN
+      - 日本+01+|+1x+JP
+      - 香港+01+|+1x+HK
+      - 新加坡+01++|+1x+SG
+      - 香港+03+|+1x+HK
+      - 台湾+01++|+1x+TWN
+      - 台湾+03++|+1x+TWN
+      - 美国+01+|+1x+US
+      - 新加坡+02+|+1x+SG
+      - 加拿大+01+|+1x+CA
+      - 新加坡+03+|+1x+SG
+      - 日本+02++|+1x+JP
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 新加坡+02+|+1x+SG
-      - 韩国+01+|+1x+KR
-      - 新加坡+03+|+1x+SG
-      - 美国+01+|+1x+US
-      - 日本+03++|+1x+JP
-      - 日本+02++|+1x+JP
-      - 香港+01+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 加拿大+01+|+1x+CA
-      - 日本+01+|+1x+JP
-      - 香港+03+|+1x+HK
-      - 台湾+03++|+1x+TWN
-      - 新加坡+01++|+1x+SG
       - 香港+02+|+1x+HK
+      - 韩国+01+|+1x+KR
+      - 日本+03++|+1x+JP
       - 台湾+02++|+1x+TWN
+      - 日本+01+|+1x+JP
+      - 香港+01+|+1x+HK
+      - 新加坡+01++|+1x+SG
+      - 香港+03+|+1x+HK
+      - 台湾+01++|+1x+TWN
+      - 台湾+03++|+1x+TWN
+      - 美国+01+|+1x+US
+      - 新加坡+02+|+1x+SG
+      - 加拿大+01+|+1x+CA
+      - 新加坡+03+|+1x+SG
+      - 日本+02++|+1x+JP
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 新加坡+02+|+1x+SG
-      - 韩国+01+|+1x+KR
-      - 新加坡+03+|+1x+SG
-      - 美国+01+|+1x+US
-      - 日本+03++|+1x+JP
-      - 日本+02++|+1x+JP
-      - 香港+01+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 加拿大+01+|+1x+CA
-      - 日本+01+|+1x+JP
-      - 香港+03+|+1x+HK
-      - 台湾+03++|+1x+TWN
-      - 新加坡+01++|+1x+SG
       - 香港+02+|+1x+HK
+      - 韩国+01+|+1x+KR
+      - 日本+03++|+1x+JP
       - 台湾+02++|+1x+TWN
+      - 日本+01+|+1x+JP
+      - 香港+01+|+1x+HK
+      - 新加坡+01++|+1x+SG
+      - 香港+03+|+1x+HK
+      - 台湾+01++|+1x+TWN
+      - 台湾+03++|+1x+TWN
+      - 美国+01+|+1x+US
+      - 新加坡+02+|+1x+SG
+      - 加拿大+01+|+1x+CA
+      - 新加坡+03+|+1x+SG
+      - 日本+02++|+1x+JP
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -175,21 +182,21 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 新加坡+02+|+1x+SG
-      - 韩国+01+|+1x+KR
-      - 新加坡+03+|+1x+SG
-      - 美国+01+|+1x+US
-      - 日本+03++|+1x+JP
-      - 日本+02++|+1x+JP
-      - 香港+01+|+1x+HK
-      - 台湾+01++|+1x+TWN
-      - 加拿大+01+|+1x+CA
-      - 日本+01+|+1x+JP
-      - 香港+03+|+1x+HK
-      - 台湾+03++|+1x+TWN
-      - 新加坡+01++|+1x+SG
       - 香港+02+|+1x+HK
+      - 韩国+01+|+1x+KR
+      - 日本+03++|+1x+JP
       - 台湾+02++|+1x+TWN
+      - 日本+01+|+1x+JP
+      - 香港+01+|+1x+HK
+      - 新加坡+01++|+1x+SG
+      - 香港+03+|+1x+HK
+      - 台湾+01++|+1x+TWN
+      - 台湾+03++|+1x+TWN
+      - 美国+01+|+1x+US
+      - 新加坡+02+|+1x+SG
+      - 加拿大+01+|+1x+CA
+      - 新加坡+03+|+1x+SG
+      - 日本+02++|+1x+JP
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
