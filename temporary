@@ -1,9 +1,9 @@
 #
 #-------------------------------------------------------------#
 #  创建者：https://v2rayse.com
-#  创建时间：2022-11-25 18:01:05
+#  创建时间：2022-11-25 18:05:29
 #  模版：v2rayse默认模版
-#  节点数量：46
+#  节点数量：20
 #-------------------------------------------------------------#
 #
 port: 7890
@@ -13,407 +13,179 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"type":"vmess","name":"🇨🇳 CN 中国 yaney
-    1","server":"gd.zhuanfa.tk","port":"15415","uuid":"0e7dde68-b031-46b3-9ef2-40e204966b00","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    2","ws-opts":{"path":"/roewesu","headers":{"host":"suzhihan.eu.org"}},"server":"suzhihan.eu.org","port":"443","uuid":"0b873cff-11ab-4716-c41a-04f886135091","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    3","server":"5m4h0k03.mcfront.xyz","port":31611,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"hk03.lovemc.xyz"}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    4","server":"5m4h0k01.mcfront.xyz","port":31601,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"hk01.lovemc.xyz"}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    5","server":"1c7s2g02.mcfront.xyz","port":31206,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"sg02.lovemc.xyz"}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    6","server":"2d1t5w02.mcfront.xyz","port":31306,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"tw02.lovemc.xyz"}
-  - {"type":"vmess","name":"yaney
-    7","ws-opts":{"path":"/","headers":{"host":"53.72img.xyz"}},"server":"53.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    8","server":"2d1t5w01.mcfront.xyz","port":31301,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"tw01.lovemc.xyz"}
-  - {"type":"vmess","name":"yaney
-    9","ws-opts":{"path":"/","headers":{"host":"45.72img.xyz"}},"server":"45.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    10","ws-opts":{"path":"/DQsafRJn/","headers":{"host":"v2ray.wefuckgfw.ga"}},"server":"v2ray.wefuckgfw.ga","port":"2053","uuid":"ab323ed9-dda5-4feb-9f17-c77c7fd811b6","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇫🇷 FR 法国 yaney
-    11","server":"176.31.83.90","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇨🇳 CN 中国 yaney
-    12","ws-opts":{"path":"/","headers":{"host":"cu.kapoknode.com"}},"server":"cu.kapoknode.com","port":"25897","uuid":"8b1b6169-d4af-474c-826d-5e7b3308ab26","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    13","ws-opts":{"path":"/","headers":{"host":"26.72img.xyz"}},"server":"26.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"yaney
-    14","ws-opts":{"path":"/","headers":{"host":"33.72img.xyz"}},"server":"33.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇬🇧 GB 英国 yaney
-    15","ws-opts":{"path":"/","headers":{"host":"144.24.150.126"}},"server":"144.24.150.126","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    16","server":"4a2u0a01.mcfront.xyz","port":31501,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"us01.lovemc.xyz"}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    17","ws-opts":{"path":"/DQsafRJn/","headers":{"host":"v2ray.wefuckgfw.ga"}},"server":"v2ray.wefuckgfw.ga","port":"2053","uuid":"ce02a636-88ac-4c29-963d-e09961ec3b3d","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    18","server":"8l2k1r01.mcfront.xyz","port":31401,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"kr01.lovemc.xyz"}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    19","server":"1c7s2g01.mcfront.xyz","port":31201,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"sg01.lovemc.xyz"}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    20","server":"6w7j3p01.mcfront.xyz","port":31116,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"jp01.lovemc.xyz"}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    21","ws-opts":{"path":"/","headers":{"host":"4.72img.xyz"}},"server":"4.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    22","server":"1c7s2g03.mcfront.xyz","port":31211,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"sg03.lovemc.xyz"}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    23","ws-opts":{"path":"/DQsafRJn/","headers":{"host":"v2ray.wefuckgfw.ga"}},"server":"v2ray.wefuckgfw.ga","port":"2053","uuid":"8947fbe5-c1c7-4716-8564-2092ce776f92","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"yaney
-    24","ws-opts":{"path":"/ray","headers":{"host":"fr2.cfcdn4.xyz"}},"server":"141.101.115.100","port":"443","uuid":"f33957e8-372e-4fba-99ed-f4db32cce9e5","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"yaney
-    25","ws-opts":{"path":"/","headers":{"host":"9.72img.xyz"}},"server":"9.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    26","ws-opts":{"path":"/ray","headers":{"host":"fr2.cfcdn4.xyz"}},"server":"172.64.148.111","port":"443","uuid":"f33957e8-372e-4fba-99ed-f4db32cce9e5","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"yaney
-    27","ws-opts":{"path":"/","headers":{"host":"29.72img.xyz"}},"server":"29.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"yaney
-    28","ws-opts":{"path":"/dongtaiwang.com","headers":{"host":"lg1.cfcdn3.xyz"}},"server":"198.41.203.3","port":"443","uuid":"33aa57df-1c93-4318-9fce-e850437ee781","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    29","ws-opts":{"path":"/","headers":{"host":"25.72img.xyz"}},"server":"25.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇫🇷 FR 法国 yaney
-    30","server":"content-provider26.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    31","ws-opts":{"path":"/","headers":{"host":"14.72img.xyz"}},"server":"14.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    32","server":"6w7j3p02.mcfront.xyz","port":31106,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"jp02.lovemc.xyz"}
-  - {"type":"vmess","name":"yaney
-    33","ws-opts":{"path":"/","headers":{"host":"43.72img.xyz"}},"server":"43.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇫🇷 FR 法国 yaney
-    34","server":"content-provider12.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇨🇳 CN 中国 yaney
-    35","ws-opts":{"path":"/","headers":{"host":"cu.kapoknode.com"}},"server":"cu.kapoknode.com","port":"25897","uuid":"556b9320-c778-4166-b009-1ec14374a9c5","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    36","ws-opts":{"path":"/","headers":{"host":"21.72img.xyz"}},"server":"21.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    37","ws-opts":{"path":"/","headers":{"host":"17.72img.xyz"}},"server":"17.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    38","ws-opts":{"path":"/aries","headers":{"host":"kz.cloudflare.quest"}},"server":"ip125.com","port":"2086","uuid":"078b436e-de58-42d9-cfe9-ffdcf72e1ab8","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"vmess","name":"yaney
-    39","ws-opts":{"path":"/","headers":{"host":"24.72img.xyz"}},"server":"24.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"vmess","name":"🇧🇬 BG 保加利亚 yaney
-    40","ws-opts":{"path":"/jcnf","headers":{"host":"91.215.154.200"}},"server":"91.215.154.200","port":"33454","uuid":"58325a55-bd92-4417-af11-81ea7c7938e4","alterId":"0","cipher":"auto","network":"ws"}
-  - {"type":"trojan","name":"🇺🇸 US 美国 yaney
-    41","server":"148.113.141.99","port":443,"password":"HdsUZmsHQW","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇨🇳 CN 中国 yaney
-    42","server":"106.55.234.95","port":"31372","uuid":"374d3519-455c-45b8-e3b1-0e2e9fcf4411","alterId":"0","cipher":"auto","network":"tcp"}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    43","ws-opts":{"path":"/","headers":{"host":"155.248.241.52"}},"server":"155.248.241.52","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇫🇷 FR 法国 yaney
-    44","server":"51.77.71.134","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","name":"🇺🇸 US 美国 yaney
-    45","ws-opts":{"path":"/sshkit/401452697/635b464921141/","headers":{"host":"sg1-v2ray.sshkit.org"}},"server":"hynesconstruction.com","port":"443","uuid":"c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3","alterId":"0","cipher":"auto","network":"ws","tls":true}
-  - {"type":"trojan","name":"🇨🇳 CN 中国 yaney
-    46","server":"6w7j3p03.mcfront.xyz","port":31111,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"jp03.lovemc.xyz"}
+  - {"type":"vmess","name":"🇨🇳CN中国yaney1","server":"gd.zhuanfa.tk","port":"15415","uuid":"0e7dde68-b031-46b3-9ef2-40e204966b00","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"🇨🇳CN中国yaney2","server":"6w7j3p02.mcfront.xyz","port":31106,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"jp02.lovemc.xyz"}
+  - {"type":"trojan","name":"🇨🇳CN中国yaney3","server":"8l2k1r01.mcfront.xyz","port":31401,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"kr01.lovemc.xyz"}
+  - {"type":"trojan","name":"🇨🇳CN中国yaney4","server":"2d1t5w02.mcfront.xyz","port":31306,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"tw02.lovemc.xyz"}
+  - {"type":"trojan","name":"🇨🇳CN中国yaney5","server":"5m4h0k03.mcfront.xyz","port":31611,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"hk03.lovemc.xyz"}
+  - {"type":"vmess","name":"🇺🇸US美国yaney6","ws-opts":{"path":"/","headers":{"host":"155.248.241.52"}},"server":"155.248.241.52","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇬🇧GB英国yaney7","ws-opts":{"path":"/","headers":{"host":"144.24.150.126"}},"server":"144.24.150.126","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"yaney8","ws-opts":{"path":"/","headers":{"host":"29.72img.xyz"}},"server":"29.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇨🇳CN中国yaney9","ws-opts":{"path":"/","headers":{"host":"cu.kapoknode.com"}},"server":"cu.kapoknode.com","port":"25897","uuid":"556b9320-c778-4166-b009-1ec14374a9c5","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"yaney10","ws-opts":{"path":"/","headers":{"host":"53.72img.xyz"}},"server":"53.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇺🇸US美国yaney11","ws-opts":{"path":"/aries","headers":{"host":"kz.cloudflare.quest"}},"server":"ip125.com","port":"2086","uuid":"078b436e-de58-42d9-cfe9-ffdcf72e1ab8","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"yaney12","ws-opts":{"path":"/","headers":{"host":"24.72img.xyz"}},"server":"24.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇨🇳CN中国yaney13","server":"4a2u0a01.mcfront.xyz","port":31501,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"us01.lovemc.xyz"}
+  - {"type":"trojan","name":"🇨🇳CN中国yaney14","server":"1c7s2g02.mcfront.xyz","port":31206,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"sg02.lovemc.xyz"}
+  - {"type":"vmess","name":"🇺🇸US美国yaney15","ws-opts":{"path":"/sshkit/401452697/635b464921141/","headers":{"host":"sg1-v2ray.sshkit.org"}},"server":"hynesconstruction.com","port":"443","uuid":"c6747da4-fb2e-4a2a-bdb7-8614bdd6b0b3","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"trojan","name":"🇨🇳CN中国yaney16","server":"5m4h0k01.mcfront.xyz","port":31601,"password":"996db100-4659-4959-bcf9-0a8e32f707ec","udp":true,"skip-cert-verify":true,"sni":"hk01.lovemc.xyz"}
+  - {"type":"vmess","name":"🇺🇸US美国yaney17","ws-opts":{"path":"/","headers":{"host":"43.72img.xyz"}},"server":"43.72img.xyz","port":"443","uuid":"81d93f62-15a2-4994-adb9-0b5d906aac7e","alterId":"0","cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","name":"🇨🇳CN中国yaney18","server":"106.55.234.95","port":"31372","uuid":"374d3519-455c-45b8-e3b1-0e2e9fcf4411","alterId":"0","cipher":"auto","network":"tcp"}
+  - {"type":"trojan","name":"🇫🇷FR法国yaney19","server":"51.77.71.134","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇫🇷FR法国yaney20","server":"content-provider12.cdn-delivery.akamaicd.com","port":443,"password":"origin","udp":true,"skip-cert-verify":true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇨🇳 CN 中国 yaney 1
-      - 🇺🇸 US 美国 yaney 2
-      - 🇨🇳 CN 中国 yaney 3
-      - 🇨🇳 CN 中国 yaney 4
-      - 🇨🇳 CN 中国 yaney 5
-      - 🇨🇳 CN 中国 yaney 6
-      - yaney 7
-      - 🇨🇳 CN 中国 yaney 8
-      - yaney 9
-      - 🇺🇸 US 美国 yaney 10
-      - 🇫🇷 FR 法国 yaney 11
-      - 🇨🇳 CN 中国 yaney 12
-      - 🇺🇸 US 美国 yaney 13
-      - yaney 14
-      - 🇬🇧 GB 英国 yaney 15
-      - 🇨🇳 CN 中国 yaney 16
-      - 🇺🇸 US 美国 yaney 17
-      - 🇨🇳 CN 中国 yaney 18
-      - 🇨🇳 CN 中国 yaney 19
-      - 🇨🇳 CN 中国 yaney 20
-      - 🇺🇸 US 美国 yaney 21
-      - 🇨🇳 CN 中国 yaney 22
-      - 🇺🇸 US 美国 yaney 23
-      - yaney 24
-      - yaney 25
-      - 🇺🇸 US 美国 yaney 26
-      - yaney 27
-      - yaney 28
-      - 🇺🇸 US 美国 yaney 29
-      - 🇫🇷 FR 法国 yaney 30
-      - 🇺🇸 US 美国 yaney 31
-      - 🇨🇳 CN 中国 yaney 32
-      - yaney 33
-      - 🇫🇷 FR 法国 yaney 34
-      - 🇨🇳 CN 中国 yaney 35
-      - 🇺🇸 US 美国 yaney 36
-      - 🇺🇸 US 美国 yaney 37
-      - 🇺🇸 US 美国 yaney 38
-      - yaney 39
-      - 🇧🇬 BG 保加利亚 yaney 40
-      - 🇺🇸 US 美国 yaney 41
-      - 🇨🇳 CN 中国 yaney 42
-      - 🇺🇸 US 美国 yaney 43
-      - 🇫🇷 FR 法国 yaney 44
-      - 🇺🇸 US 美国 yaney 45
-      - 🇨🇳 CN 中国 yaney 46
+      - 🇨🇳CN中国yaney1
+      - 🇨🇳CN中国yaney2
+      - 🇨🇳CN中国yaney3
+      - 🇨🇳CN中国yaney4
+      - 🇨🇳CN中国yaney5
+      - 🇺🇸US美国yaney6
+      - 🇬🇧GB英国yaney7
+      - yaney8
+      - 🇨🇳CN中国yaney9
+      - yaney10
+      - 🇺🇸US美国yaney11
+      - yaney12
+      - 🇨🇳CN中国yaney13
+      - 🇨🇳CN中国yaney14
+      - 🇺🇸US美国yaney15
+      - 🇨🇳CN中国yaney16
+      - 🇺🇸US美国yaney17
+      - 🇨🇳CN中国yaney18
+      - 🇫🇷FR法国yaney19
+      - 🇫🇷FR法国yaney20
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇨🇳 CN 中国 yaney 1
-      - 🇺🇸 US 美国 yaney 2
-      - 🇨🇳 CN 中国 yaney 3
-      - 🇨🇳 CN 中国 yaney 4
-      - 🇨🇳 CN 中国 yaney 5
-      - 🇨🇳 CN 中国 yaney 6
-      - yaney 7
-      - 🇨🇳 CN 中国 yaney 8
-      - yaney 9
-      - 🇺🇸 US 美国 yaney 10
-      - 🇫🇷 FR 法国 yaney 11
-      - 🇨🇳 CN 中国 yaney 12
-      - 🇺🇸 US 美国 yaney 13
-      - yaney 14
-      - 🇬🇧 GB 英国 yaney 15
-      - 🇨🇳 CN 中国 yaney 16
-      - 🇺🇸 US 美国 yaney 17
-      - 🇨🇳 CN 中国 yaney 18
-      - 🇨🇳 CN 中国 yaney 19
-      - 🇨🇳 CN 中国 yaney 20
-      - 🇺🇸 US 美国 yaney 21
-      - 🇨🇳 CN 中国 yaney 22
-      - 🇺🇸 US 美国 yaney 23
-      - yaney 24
-      - yaney 25
-      - 🇺🇸 US 美国 yaney 26
-      - yaney 27
-      - yaney 28
-      - 🇺🇸 US 美国 yaney 29
-      - 🇫🇷 FR 法国 yaney 30
-      - 🇺🇸 US 美国 yaney 31
-      - 🇨🇳 CN 中国 yaney 32
-      - yaney 33
-      - 🇫🇷 FR 法国 yaney 34
-      - 🇨🇳 CN 中国 yaney 35
-      - 🇺🇸 US 美国 yaney 36
-      - 🇺🇸 US 美国 yaney 37
-      - 🇺🇸 US 美国 yaney 38
-      - yaney 39
-      - 🇧🇬 BG 保加利亚 yaney 40
-      - 🇺🇸 US 美国 yaney 41
-      - 🇨🇳 CN 中国 yaney 42
-      - 🇺🇸 US 美国 yaney 43
-      - 🇫🇷 FR 法国 yaney 44
-      - 🇺🇸 US 美国 yaney 45
-      - 🇨🇳 CN 中国 yaney 46
+      - 🇨🇳CN中国yaney1
+      - 🇨🇳CN中国yaney2
+      - 🇨🇳CN中国yaney3
+      - 🇨🇳CN中国yaney4
+      - 🇨🇳CN中国yaney5
+      - 🇺🇸US美国yaney6
+      - 🇬🇧GB英国yaney7
+      - yaney8
+      - 🇨🇳CN中国yaney9
+      - yaney10
+      - 🇺🇸US美国yaney11
+      - yaney12
+      - 🇨🇳CN中国yaney13
+      - 🇨🇳CN中国yaney14
+      - 🇺🇸US美国yaney15
+      - 🇨🇳CN中国yaney16
+      - 🇺🇸US美国yaney17
+      - 🇨🇳CN中国yaney18
+      - 🇫🇷FR法国yaney19
+      - 🇫🇷FR法国yaney20
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇨🇳 CN 中国 yaney 1
-      - 🇺🇸 US 美国 yaney 2
-      - 🇨🇳 CN 中国 yaney 3
-      - 🇨🇳 CN 中国 yaney 4
-      - 🇨🇳 CN 中国 yaney 5
-      - 🇨🇳 CN 中国 yaney 6
-      - yaney 7
-      - 🇨🇳 CN 中国 yaney 8
-      - yaney 9
-      - 🇺🇸 US 美国 yaney 10
-      - 🇫🇷 FR 法国 yaney 11
-      - 🇨🇳 CN 中国 yaney 12
-      - 🇺🇸 US 美国 yaney 13
-      - yaney 14
-      - 🇬🇧 GB 英国 yaney 15
-      - 🇨🇳 CN 中国 yaney 16
-      - 🇺🇸 US 美国 yaney 17
-      - 🇨🇳 CN 中国 yaney 18
-      - 🇨🇳 CN 中国 yaney 19
-      - 🇨🇳 CN 中国 yaney 20
-      - 🇺🇸 US 美国 yaney 21
-      - 🇨🇳 CN 中国 yaney 22
-      - 🇺🇸 US 美国 yaney 23
-      - yaney 24
-      - yaney 25
-      - 🇺🇸 US 美国 yaney 26
-      - yaney 27
-      - yaney 28
-      - 🇺🇸 US 美国 yaney 29
-      - 🇫🇷 FR 法国 yaney 30
-      - 🇺🇸 US 美国 yaney 31
-      - 🇨🇳 CN 中国 yaney 32
-      - yaney 33
-      - 🇫🇷 FR 法国 yaney 34
-      - 🇨🇳 CN 中国 yaney 35
-      - 🇺🇸 US 美国 yaney 36
-      - 🇺🇸 US 美国 yaney 37
-      - 🇺🇸 US 美国 yaney 38
-      - yaney 39
-      - 🇧🇬 BG 保加利亚 yaney 40
-      - 🇺🇸 US 美国 yaney 41
-      - 🇨🇳 CN 中国 yaney 42
-      - 🇺🇸 US 美国 yaney 43
-      - 🇫🇷 FR 法国 yaney 44
-      - 🇺🇸 US 美国 yaney 45
-      - 🇨🇳 CN 中国 yaney 46
+      - 🇨🇳CN中国yaney1
+      - 🇨🇳CN中国yaney2
+      - 🇨🇳CN中国yaney3
+      - 🇨🇳CN中国yaney4
+      - 🇨🇳CN中国yaney5
+      - 🇺🇸US美国yaney6
+      - 🇬🇧GB英国yaney7
+      - yaney8
+      - 🇨🇳CN中国yaney9
+      - yaney10
+      - 🇺🇸US美国yaney11
+      - yaney12
+      - 🇨🇳CN中国yaney13
+      - 🇨🇳CN中国yaney14
+      - 🇺🇸US美国yaney15
+      - 🇨🇳CN中国yaney16
+      - 🇺🇸US美国yaney17
+      - 🇨🇳CN中国yaney18
+      - 🇫🇷FR法国yaney19
+      - 🇫🇷FR法国yaney20
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇳 CN 中国 yaney 1
-      - 🇺🇸 US 美国 yaney 2
-      - 🇨🇳 CN 中国 yaney 3
-      - 🇨🇳 CN 中国 yaney 4
-      - 🇨🇳 CN 中国 yaney 5
-      - 🇨🇳 CN 中国 yaney 6
-      - yaney 7
-      - 🇨🇳 CN 中国 yaney 8
-      - yaney 9
-      - 🇺🇸 US 美国 yaney 10
-      - 🇫🇷 FR 法国 yaney 11
-      - 🇨🇳 CN 中国 yaney 12
-      - 🇺🇸 US 美国 yaney 13
-      - yaney 14
-      - 🇬🇧 GB 英国 yaney 15
-      - 🇨🇳 CN 中国 yaney 16
-      - 🇺🇸 US 美国 yaney 17
-      - 🇨🇳 CN 中国 yaney 18
-      - 🇨🇳 CN 中国 yaney 19
-      - 🇨🇳 CN 中国 yaney 20
-      - 🇺🇸 US 美国 yaney 21
-      - 🇨🇳 CN 中国 yaney 22
-      - 🇺🇸 US 美国 yaney 23
-      - yaney 24
-      - yaney 25
-      - 🇺🇸 US 美国 yaney 26
-      - yaney 27
-      - yaney 28
-      - 🇺🇸 US 美国 yaney 29
-      - 🇫🇷 FR 法国 yaney 30
-      - 🇺🇸 US 美国 yaney 31
-      - 🇨🇳 CN 中国 yaney 32
-      - yaney 33
-      - 🇫🇷 FR 法国 yaney 34
-      - 🇨🇳 CN 中国 yaney 35
-      - 🇺🇸 US 美国 yaney 36
-      - 🇺🇸 US 美国 yaney 37
-      - 🇺🇸 US 美国 yaney 38
-      - yaney 39
-      - 🇧🇬 BG 保加利亚 yaney 40
-      - 🇺🇸 US 美国 yaney 41
-      - 🇨🇳 CN 中国 yaney 42
-      - 🇺🇸 US 美国 yaney 43
-      - 🇫🇷 FR 法国 yaney 44
-      - 🇺🇸 US 美国 yaney 45
-      - 🇨🇳 CN 中国 yaney 46
+      - 🇨🇳CN中国yaney1
+      - 🇨🇳CN中国yaney2
+      - 🇨🇳CN中国yaney3
+      - 🇨🇳CN中国yaney4
+      - 🇨🇳CN中国yaney5
+      - 🇺🇸US美国yaney6
+      - 🇬🇧GB英国yaney7
+      - yaney8
+      - 🇨🇳CN中国yaney9
+      - yaney10
+      - 🇺🇸US美国yaney11
+      - yaney12
+      - 🇨🇳CN中国yaney13
+      - 🇨🇳CN中国yaney14
+      - 🇺🇸US美国yaney15
+      - 🇨🇳CN中国yaney16
+      - 🇺🇸US美国yaney17
+      - 🇨🇳CN中国yaney18
+      - 🇫🇷FR法国yaney19
+      - 🇫🇷FR法国yaney20
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇨🇳 CN 中国 yaney 1
-      - 🇺🇸 US 美国 yaney 2
-      - 🇨🇳 CN 中国 yaney 3
-      - 🇨🇳 CN 中国 yaney 4
-      - 🇨🇳 CN 中国 yaney 5
-      - 🇨🇳 CN 中国 yaney 6
-      - yaney 7
-      - 🇨🇳 CN 中国 yaney 8
-      - yaney 9
-      - 🇺🇸 US 美国 yaney 10
-      - 🇫🇷 FR 法国 yaney 11
-      - 🇨🇳 CN 中国 yaney 12
-      - 🇺🇸 US 美国 yaney 13
-      - yaney 14
-      - 🇬🇧 GB 英国 yaney 15
-      - 🇨🇳 CN 中国 yaney 16
-      - 🇺🇸 US 美国 yaney 17
-      - 🇨🇳 CN 中国 yaney 18
-      - 🇨🇳 CN 中国 yaney 19
-      - 🇨🇳 CN 中国 yaney 20
-      - 🇺🇸 US 美国 yaney 21
-      - 🇨🇳 CN 中国 yaney 22
-      - 🇺🇸 US 美国 yaney 23
-      - yaney 24
-      - yaney 25
-      - 🇺🇸 US 美国 yaney 26
-      - yaney 27
-      - yaney 28
-      - 🇺🇸 US 美国 yaney 29
-      - 🇫🇷 FR 法国 yaney 30
-      - 🇺🇸 US 美国 yaney 31
-      - 🇨🇳 CN 中国 yaney 32
-      - yaney 33
-      - 🇫🇷 FR 法国 yaney 34
-      - 🇨🇳 CN 中国 yaney 35
-      - 🇺🇸 US 美国 yaney 36
-      - 🇺🇸 US 美国 yaney 37
-      - 🇺🇸 US 美国 yaney 38
-      - yaney 39
-      - 🇧🇬 BG 保加利亚 yaney 40
-      - 🇺🇸 US 美国 yaney 41
-      - 🇨🇳 CN 中国 yaney 42
-      - 🇺🇸 US 美国 yaney 43
-      - 🇫🇷 FR 法国 yaney 44
-      - 🇺🇸 US 美国 yaney 45
-      - 🇨🇳 CN 中国 yaney 46
+      - 🇨🇳CN中国yaney1
+      - 🇨🇳CN中国yaney2
+      - 🇨🇳CN中国yaney3
+      - 🇨🇳CN中国yaney4
+      - 🇨🇳CN中国yaney5
+      - 🇺🇸US美国yaney6
+      - 🇬🇧GB英国yaney7
+      - yaney8
+      - 🇨🇳CN中国yaney9
+      - yaney10
+      - 🇺🇸US美国yaney11
+      - yaney12
+      - 🇨🇳CN中国yaney13
+      - 🇨🇳CN中国yaney14
+      - 🇺🇸US美国yaney15
+      - 🇨🇳CN中国yaney16
+      - 🇺🇸US美国yaney17
+      - 🇨🇳CN中国yaney18
+      - 🇫🇷FR法国yaney19
+      - 🇫🇷FR法国yaney20
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇨🇳 CN 中国 yaney 1
-      - 🇺🇸 US 美国 yaney 2
-      - 🇨🇳 CN 中国 yaney 3
-      - 🇨🇳 CN 中国 yaney 4
-      - 🇨🇳 CN 中国 yaney 5
-      - 🇨🇳 CN 中国 yaney 6
-      - yaney 7
-      - 🇨🇳 CN 中国 yaney 8
-      - yaney 9
-      - 🇺🇸 US 美国 yaney 10
-      - 🇫🇷 FR 法国 yaney 11
-      - 🇨🇳 CN 中国 yaney 12
-      - 🇺🇸 US 美国 yaney 13
-      - yaney 14
-      - 🇬🇧 GB 英国 yaney 15
-      - 🇨🇳 CN 中国 yaney 16
-      - 🇺🇸 US 美国 yaney 17
-      - 🇨🇳 CN 中国 yaney 18
-      - 🇨🇳 CN 中国 yaney 19
-      - 🇨🇳 CN 中国 yaney 20
-      - 🇺🇸 US 美国 yaney 21
-      - 🇨🇳 CN 中国 yaney 22
-      - 🇺🇸 US 美国 yaney 23
-      - yaney 24
-      - yaney 25
-      - 🇺🇸 US 美国 yaney 26
-      - yaney 27
-      - yaney 28
-      - 🇺🇸 US 美国 yaney 29
-      - 🇫🇷 FR 法国 yaney 30
-      - 🇺🇸 US 美国 yaney 31
-      - 🇨🇳 CN 中国 yaney 32
-      - yaney 33
-      - 🇫🇷 FR 法国 yaney 34
-      - 🇨🇳 CN 中国 yaney 35
-      - 🇺🇸 US 美国 yaney 36
-      - 🇺🇸 US 美国 yaney 37
-      - 🇺🇸 US 美国 yaney 38
-      - yaney 39
-      - 🇧🇬 BG 保加利亚 yaney 40
-      - 🇺🇸 US 美国 yaney 41
-      - 🇨🇳 CN 中国 yaney 42
-      - 🇺🇸 US 美国 yaney 43
-      - 🇫🇷 FR 法国 yaney 44
-      - 🇺🇸 US 美国 yaney 45
-      - 🇨🇳 CN 中国 yaney 46
+      - 🇨🇳CN中国yaney1
+      - 🇨🇳CN中国yaney2
+      - 🇨🇳CN中国yaney3
+      - 🇨🇳CN中国yaney4
+      - 🇨🇳CN中国yaney5
+      - 🇺🇸US美国yaney6
+      - 🇬🇧GB英国yaney7
+      - yaney8
+      - 🇨🇳CN中国yaney9
+      - yaney10
+      - 🇺🇸US美国yaney11
+      - yaney12
+      - 🇨🇳CN中国yaney13
+      - 🇨🇳CN中国yaney14
+      - 🇺🇸US美国yaney15
+      - 🇨🇳CN中国yaney16
+      - 🇺🇸US美国yaney17
+      - 🇨🇳CN中国yaney18
+      - 🇫🇷FR法国yaney19
+      - 🇫🇷FR法国yaney20
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -436,52 +208,26 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇨🇳 CN 中国 yaney 1
-      - 🇺🇸 US 美国 yaney 2
-      - 🇨🇳 CN 中国 yaney 3
-      - 🇨🇳 CN 中国 yaney 4
-      - 🇨🇳 CN 中国 yaney 5
-      - 🇨🇳 CN 中国 yaney 6
-      - yaney 7
-      - 🇨🇳 CN 中国 yaney 8
-      - yaney 9
-      - 🇺🇸 US 美国 yaney 10
-      - 🇫🇷 FR 法国 yaney 11
-      - 🇨🇳 CN 中国 yaney 12
-      - 🇺🇸 US 美国 yaney 13
-      - yaney 14
-      - 🇬🇧 GB 英国 yaney 15
-      - 🇨🇳 CN 中国 yaney 16
-      - 🇺🇸 US 美国 yaney 17
-      - 🇨🇳 CN 中国 yaney 18
-      - 🇨🇳 CN 中国 yaney 19
-      - 🇨🇳 CN 中国 yaney 20
-      - 🇺🇸 US 美国 yaney 21
-      - 🇨🇳 CN 中国 yaney 22
-      - 🇺🇸 US 美国 yaney 23
-      - yaney 24
-      - yaney 25
-      - 🇺🇸 US 美国 yaney 26
-      - yaney 27
-      - yaney 28
-      - 🇺🇸 US 美国 yaney 29
-      - 🇫🇷 FR 法国 yaney 30
-      - 🇺🇸 US 美国 yaney 31
-      - 🇨🇳 CN 中国 yaney 32
-      - yaney 33
-      - 🇫🇷 FR 法国 yaney 34
-      - 🇨🇳 CN 中国 yaney 35
-      - 🇺🇸 US 美国 yaney 36
-      - 🇺🇸 US 美国 yaney 37
-      - 🇺🇸 US 美国 yaney 38
-      - yaney 39
-      - 🇧🇬 BG 保加利亚 yaney 40
-      - 🇺🇸 US 美国 yaney 41
-      - 🇨🇳 CN 中国 yaney 42
-      - 🇺🇸 US 美国 yaney 43
-      - 🇫🇷 FR 法国 yaney 44
-      - 🇺🇸 US 美国 yaney 45
-      - 🇨🇳 CN 中国 yaney 46
+      - 🇨🇳CN中国yaney1
+      - 🇨🇳CN中国yaney2
+      - 🇨🇳CN中国yaney3
+      - 🇨🇳CN中国yaney4
+      - 🇨🇳CN中国yaney5
+      - 🇺🇸US美国yaney6
+      - 🇬🇧GB英国yaney7
+      - yaney8
+      - 🇨🇳CN中国yaney9
+      - yaney10
+      - 🇺🇸US美国yaney11
+      - yaney12
+      - 🇨🇳CN中国yaney13
+      - 🇨🇳CN中国yaney14
+      - 🇺🇸US美国yaney15
+      - 🇨🇳CN中国yaney16
+      - 🇺🇸US美国yaney17
+      - 🇨🇳CN中国yaney18
+      - 🇫🇷FR法国yaney19
+      - 🇫🇷FR法国yaney20
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
