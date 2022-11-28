@@ -9,12 +9,15 @@
 ***
 #### 建议每天更新下订阅
 ## 今日尝鲜
-<img width="910" alt="image" src="https://user-images.githubusercontent.com/53202722/204064400-331af41d-3626-4e50-a346-4fb395b7659b.png">
+<img width="882" alt="image" src="https://user-images.githubusercontent.com/53202722/204171364-a5311f59-e287-408a-b747-851d9831c4c9.png">
 
-trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?allowInsecure=1#%f0%9f%87%ba%f0%9f%87%b8_US_%e7%be%8e%e5%9b%bd_yaney01_1
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInlhbmV5MDFfMiIsDQogICJhZGQiOiAiMTQxLjEwMS4xMTQuMjAiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTc2YjU5OGYtNDQ1Yi00MWFjLTlkMmEtNDMwYzVjNGRmMjZhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJjbGFzaDEudHJ1bXAyMDIzLm5ldCIsDQogICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
-trojan://3dacbaa8-784b-430c-9c1e-57d33648981d@52.141.26.55:443?allowInsecure=1#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_yaney01_4
-trojan://Sp3eDVp@185.212.200.75:443?allowInsecure=1#%f0%9f%87%b3%f0%9f%87%b1_NL_%e8%8d%b7%e5%85%b0_yaney01_5
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?allowInsecure=1#%f0%9f%87%ae%f0%9f%87%b3_IN_%e5%8d%b0%e5%ba%a6_yaney01_6
-trojan://3dacbaa8-784b-430c-9c1e-57d33648981d@5.255.103.209:443?allowInsecure=1#%f0%9f%87%b3%f0%9f%87%b1_NL_%e8%8d%b7%e5%85%b0_yaney01_7
-trojan://HdsUZmsHQW@148.113.141.99:443?allowInsecure=1#%f0%9f%87%ba%f0%9f%87%b8_US_%e7%be%8e%e5%9b%bd_yaney01_8
+trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@3d1c4a01.mcfront.xyz:31701?allowInsecure=0&sni=ca01.lovemc.xyz#%e5%8a%a0%e6%8b%bf%e5%a4%a7+01+%7c+1x+CA
+trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@6w7j3p02.mcfront.xyz:31106?allowInsecure=1&sni=jp02.lovemc.xyz#%e6%97%a5%e6%9c%ac+02++%7c+1x+JP
+trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@4a2u0a01.mcfront.xyz:31501?allowInsecure=0&sni=us01.lovemc.xyz#%e7%be%8e%e5%9b%bd+01+%7c+1x+US
+trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@1c7s2g02.mcfront.xyz:31206?allowInsecure=0&sni=sg02.lovemc.xyz#%e6%96%b0%e5%8a%a0%e5%9d%a1+02+%7c+1x+SG
+trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@6w7j3p03.mcfront.xyz:31111?allowInsecure=0&sni=jp03.lovemc.xyz#%e6%97%a5%e6%9c%ac+03++%7c+1x+JP
+trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@2d1t5w01.mcfront.xyz:31301?allowInsecure=0&sni=tw01.lovemc.xyz#%e5%8f%b0%e6%b9%be+01++%7c+1x+TWN
+trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@6w7j3p01.mcfront.xyz:31116?allowInsecure=0&sni=jp01.lovemc.xyz#%e6%97%a5%e6%9c%ac+01+%7c+1x+JP
+trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@5m4h0k03.mcfront.xyz:31611?allowInsecure=0&sni=hk03.lovemc.xyz#%e9%a6%99%e6%b8%af+03+%7c+1x+HK
+trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@5m4h0k02.mcfront.xyz:31606?allowInsecure=0&sni=hk02.lovemc.xyz#%e9%a6%99%e6%b8%af+02+%7c+1x+HK
+trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@1c7s2g01.mcfront.xyz:31201?allowInsecure=0&sni=sg01.lovemc.xyz#%e6%96%b0%e5%8a%a0%e5%9d%a1+01++%7c+1x+SG
