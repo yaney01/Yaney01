@@ -9,15 +9,15 @@
 ***
 #### 建议每天更新下订阅
 ## 今日尝鲜
-<img width="882" alt="image" src="https://user-images.githubusercontent.com/53202722/204171364-a5311f59-e287-408a-b747-851d9831c4c9.png">
+<img width="880" alt="image" src="https://user-images.githubusercontent.com/53202722/204411598-649cf573-ce6f-489c-a394-4c5ce2de7212.png">
 
-trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@3d1c4a01.mcfront.xyz:31701?allowInsecure=0&sni=ca01.lovemc.xyz#%e5%8a%a0%e6%8b%bf%e5%a4%a7+01+%7c+1x+CA
-trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@6w7j3p02.mcfront.xyz:31106?allowInsecure=1&sni=jp02.lovemc.xyz#%e6%97%a5%e6%9c%ac+02++%7c+1x+JP
-trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@4a2u0a01.mcfront.xyz:31501?allowInsecure=0&sni=us01.lovemc.xyz#%e7%be%8e%e5%9b%bd+01+%7c+1x+US
-trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@1c7s2g02.mcfront.xyz:31206?allowInsecure=0&sni=sg02.lovemc.xyz#%e6%96%b0%e5%8a%a0%e5%9d%a1+02+%7c+1x+SG
-trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@6w7j3p03.mcfront.xyz:31111?allowInsecure=0&sni=jp03.lovemc.xyz#%e6%97%a5%e6%9c%ac+03++%7c+1x+JP
-trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@2d1t5w01.mcfront.xyz:31301?allowInsecure=0&sni=tw01.lovemc.xyz#%e5%8f%b0%e6%b9%be+01++%7c+1x+TWN
-trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@6w7j3p01.mcfront.xyz:31116?allowInsecure=0&sni=jp01.lovemc.xyz#%e6%97%a5%e6%9c%ac+01+%7c+1x+JP
-trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@5m4h0k03.mcfront.xyz:31611?allowInsecure=0&sni=hk03.lovemc.xyz#%e9%a6%99%e6%b8%af+03+%7c+1x+HK
-trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@5m4h0k02.mcfront.xyz:31606?allowInsecure=0&sni=hk02.lovemc.xyz#%e9%a6%99%e6%b8%af+02+%7c+1x+HK
-trojan://f47ce749-c6c6-48f4-8c1d-78174a18c7db@1c7s2g01.mcfront.xyz:31201?allowInsecure=0&sni=sg01.lovemc.xyz#%e6%96%b0%e5%8a%a0%e5%9d%a1+01++%7c+1x+SG
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSB5YW5leSA2MSIsDQogICJhZGQiOiAiMTExLjQ1LjIyLjEzOSIsDQogICJwb3J0IjogIjkwMDgiLA0KICAiaWQiOiAiMzM0Njg3MmUtMzEwNC0zYzViLThmNmYtNGI4MDkzMDlmYThkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSB5YW5leSA1IiwNCiAgImFkZCI6ICIxMjAuMjMzLjExLjEzNiIsDQogICJwb3J0IjogIjkwMTEiLA0KICAiaWQiOiAiMzM0Njg3MmUtMzEwNC0zYzViLThmNmYtNGI4MDkzMDlmYThkIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSB5YW5leSAxOSIsDQogICJhZGQiOiAiMTE2LjEyOS4yNTQuMTg0IiwNCiAgInBvcnQiOiAiOTAxNiIsDQogICJpZCI6ICIzMzQ2ODcyZS0zMTA0LTNjNWItOGY2Zi00YjgwOTMwOWZhOGQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?allowInsecure=1#%f0%9f%87%af%f0%9f%87%b5+JP+%e6%97%a5%e6%9c%ac+yaney+44
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Dwn4e3IEtSIOmfqeWbvSB5YW5leSAxMSIsDQogICJhZGQiOiAiMTQ2LjU2LjE2OC4xNTQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiODFkOTNmNjItMTVhMi00OTk0LWFkYjktMGI1ZDkwNmFhYzdlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIxNC43MmltZy54eXoiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSB5YW5leSA3MCIsDQogICJhZGQiOiAiMTIwLjIzMy4xMS4xMzYiLA0KICAicG9ydCI6ICI5MDIzIiwNCiAgImlkIjogIjMzNDY4NzJlLTMxMDQtM2M1Yi04ZjZmLTRiODA5MzA5ZmE4ZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSB5YW5leSA3NiIsDQogICJhZGQiOiAiMTIwLjIzMy4xMS4xMzYiLA0KICAicG9ydCI6ICIxMTkxOSIsDQogICJpZCI6ICIzMzQ2ODcyZS0zMTA0LTNjNWItOGY2Zi00YjgwOTMwOWZhOGQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+trojan://opentunnel.net-frtyusdceff@ukt-2.opensvr.net:443?allowInsecure=1&sni=ukt-2.opensvr.net#%f0%9f%87%ab%f0%9f%87%b7+FR+%e6%b3%95%e5%9b%bd+yaney+86
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSB5YW5leSA1NSIsDQogICJhZGQiOiAiMTgzLjI0NS43LjE5MCIsDQogICJwb3J0IjogIjI1NDc4IiwNCiAgImlkIjogIjE0ODlmNGU3LTcwMmUtNGM3NS04MGIzLWFlYzIxZmU0NjRiYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL3hpYW5nZ2FuZzAzIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+trojan://67e200f1-4ff5-42ca-8425-3f16f7986c29@t1.samsung.bforward2.uk:443?allowInsecure=1&sni=t1.samsung.bforward2.uk#%f0%9f%87%ac%f0%9f%87%a7+GB+%e8%8b%b1%e5%9b%bd+yaney+8
