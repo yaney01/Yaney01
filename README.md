@@ -10,7 +10,7 @@
 #### 建议每天更新下订阅
 
 ## 今日尝鲜
-<img width="903" alt="image" src="https://user-images.githubusercontent.com/53202722/205776444-2d1761d0-c11f-4490-87c7-159528b6769e.png">
+<img width="772" alt="image" src="https://user-images.githubusercontent.com/53202722/205776536-0a498ad3-9ba4-460d-a7bb-bd07a251de74.png">
 
 trojan://b84d16a244460e09@211.72.35.155:3389?allowInsecure=1#%f0%9f%87%b9%f0%9f%87%bc_TW_%e5%8f%b0%e6%b9%be
 trojan://0cc6b4268dea0ba8@211.72.35.157:3389?allowInsecure=1#%f0%9f%87%b9%f0%9f%87%bc_TW_%e5%8f%b0%e6%b9%be
