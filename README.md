@@ -9,14 +9,14 @@
 ***
 #### 建议每天更新下订阅
 ### 今日尝鲜
-<img width="864" alt="image" src="https://user-images.githubusercontent.com/53202722/210485981-45e84192-970b-43fe-a8fc-e96f210c207e.png">
-ss://cmM0LW1kNTpQYW9mdQ@yd-05.paofunlink.com:1191/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+60
+<img width="871" alt="image" src="https://user-images.githubusercontent.com/53202722/210695591-335884b0-329b-4d4d-9780-1c4fc1ff59e5.png">
+ss://cmM0LW1kNTpQYW9mdQ@yd-01.paofunlink.com:5982/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+10
+ss://cmM0LW1kNTpQYW9mdQ@yd-02.paofunlink.com:1154/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+3
+ss://cmM0LW1kNTpQYW9mdQ@yd-07.paofunlink.com:5986/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+5
 ss://cmM0LW1kNTpQYW9mdQ@yd-02.paofunlink.com:1193/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+4
-ss://cmM0LW1kNTpQYW9mdQ@yd-02.paofunlink.com:1154/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+1
-trojan://b73a108c-1070-48aa-a2c4-d50630c47ee7@3.36.139.18:50382?allowInsecure=1&sni=kr-s-2.fuckjdieng.uk#%f0%9f%87%b0%f0%9f%87%b7+KR+%e9%9f%a9%e5%9b%bd+81
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSAxOSIsDQogICJhZGQiOiAiaGFpbmFuLnNmanNxMDAxLmluZm8iLA0KICAicG9ydCI6ICIzMzIwNSIsDQogICJpZCI6ICJiNDk5MWFmZS1hN2YyLTNhMjgtYWJiNS1hOGI4ZDVkOTlhYjUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-ss://cmM0LW1kNTpQYW9mdQ@yd-05.paofunlink.com:1151/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+46
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSAzMiIsDQogICJhZGQiOiAiaGFpbmFuLnNmanNxMDAxLmluZm8iLA0KICAicG9ydCI6ICIzMzIxMSIsDQogICJpZCI6ICJiNDk5MWFmZS1hN2YyLTNhMjgtYWJiNS1hOGI4ZDVkOTlhYjUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSA3OCIsDQogICJhZGQiOiAiZHhiZWlqaW5nMDEuYmFpcGlhb3pmLmNvbSIsDQogICJwb3J0IjogIjI3NDgwIiwNCiAgImlkIjogImVmNTQyODBmLTA5N2MtNDI4Yi1iOTBiLTZhMDA5OTBmMDVjZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZHhiZWlqaW5nMDEuYmFpcGlhb3pmLmNvbSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-ss://cmM0LW1kNTpQYW9mdQ@yd-05.paofunlink.com:1150/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+9
-trojan://e45b7759-6512-487b-ab20-22da1f46255f@141.95.61.209:1145?allowInsecure=1#%f0%9f%87%ab%f0%9f%87%b7+FR+%e6%b3%95%e5%9b%bd+2
+ss://cmM0LW1kNTpQYW9mdQ@yd-06.paofunlink.com:5983/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+1
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSA5NiIsDQogICJhZGQiOiAieWVibmV5ZHJxdzNwaWprN3dtLnppaXIuY24iLA0KICAicG9ydCI6ICI0ODM5NSIsDQogICJpZCI6ICI5ZjY4Y2UzOS1mMjJhLTRhYTYtODRlNy03ODEzNGFlZWQ2ZTciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInllYm5leWRycXczcGlqazd3bS56aWlyLmNuIiwNCiAgInBhdGgiOiAiL2ZseSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+ss://cmM0LW1kNTpQYW9mdQ@yd-05.paofunlink.com:1191/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+7
+trojan://aa41a373-7b72-4411-98f1-3d675b560481@yebneydrqw3pijk7wm.ziir.cn:39911?allowInsecure=1&sni=hkmax01.170203.xyz#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+39
+ss://cmM0LW1kNTpQYW9mdQ@yd-01.paofunlink.com:5981/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+2
+ss://cmM0LW1kNTpQYW9mdQ@yd-05.paofunlink.com:1190/?plugin=simple-obfs%3bobfs%3dhttp%3bobfs-host%3d37f7e180722.microsoft.com#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+6
