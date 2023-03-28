@@ -9,14 +9,14 @@
 ***
 #### 建议每天更新下订阅
 ### 今日尝鲜
-<img width="781" alt="image" src="https://user-images.githubusercontent.com/53202722/227819252-585267f1-15f8-4c0e-923b-74c7e8789cd0.png">
-trojan://001a5927-bcf7-368a-8a4d-cb8c2fd6aab5@lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou:12323?allowInsecure=1&sni=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_236
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN2JlZTgzMC0wOWFhLTQzYjItODk0NS0zYjM0MWI4Nzg3ZGI@p1.bxy-fun1.com:23102#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_254
-trojan://626351FA-3CA6-8118-FADF-CCDBCD620871@oss-cn-shanghai.westdatacloud.top:20048?allowInsecure=1&sni=oss-cn-shanghai.westdatacloud.top#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_231
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.214.255:443#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_255
-trojan://29L22@tj879.37927.online:443?allowInsecure=1&sni=tj879.37927.online#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_207
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.125.75.194:443#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_209
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN2JlZTgzMC0wOWFhLTQzYjItODk0NS0zYjM0MWI4Nzg3ZGI@p1.bxy-fun2.com:26107#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_228
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.221.240.172:443#%f0%9f%87%b8%f0%9f%87%ac_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_164
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.86.41:443#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_233
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNjcxZDdjYS02ODEwLTRjZDctOTNiZi0xNDYyZWIxOGRjMzg@hk2.kapoknode.com:21802#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_246
+<img width="649" alt="image" src="https://user-images.githubusercontent.com/53202722/228109854-3310e25c-b0f0-4a1f-975f-b58068f12c42.png">
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Dwn4e3X0tSX+mfqeWbvV8xNjkiLA0KICAiYWRkIjogImtnY3dhZmJ2Zi43Njg5ODEwMi54eXoiLA0KICAicG9ydCI6ICIxNTI0MSIsDQogICJpZCI6ICI1OTM2ZGJkNS02NzBmLTM3MmMtODdiZS1mYTVhNTVkZDJkMGMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+trojan://35eb4bae-2348-42f8-9010-1c7b229df23f@awssg12-tg-data.amazonwebservicess.com:443?allowInsecure=1&sni=data.amazonwebservicess.com#%f0%9f%87%b8%f0%9f%87%ac_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_30
+trojan://35eb4bae-2348-42f8-9010-1c7b229df23f@kcdtw2-tg-data.amazon-azure.com:443?allowInsecure=1&sni=data.amazon-azure.com#%f0%9f%87%b9%f0%9f%87%bc_TW_%e5%8f%b0%e6%b9%be_28
+trojan://35eb4bae-2348-42f8-9010-1c7b229df23f@awshk8-data.amazon-azure.com:443?allowInsecure=1&sni=data.amazon-azure.com#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_160
+trojan://35eb4bae-2348-42f8-9010-1c7b229df23f@awshk10-tg-data.amazonwebservicess.com:443?allowInsecure=1&sni=data.amazonwebservicess.com#%f0%9f%87%ad%f0%9f%87%b0_HK_%e9%a6%99%e6%b8%af_144
+trojan://4e3f02a3-4b2b-46e3-9938-dd997975018c@v02.gutingting.com:30003?allowInsecure=1&sni=v2tw01.fuqiangren.com#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_98
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7jwn4esX1NHX+aWsOWKoOWdoV82NSIsDQogICJhZGQiOiAiOC4yMTkuMjE2LjI3IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjhjNmNjZjM3LWQwYzUtNDI2NC04MWZkLWEzODc5MTFjOThlYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic2ctbGFvcHFodWEtc3l1MTIzYWJoei5uZXh0Y2hhdC50b3AiLA0KICAicGF0aCI6ICIvbWFuYWdlIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
+trojan://35eb4bae-2348-42f8-9010-1c7b229df23f@awshk13-data.amazon-azure.com:443?allowInsecure=1&sni=data.amazon-azure.com#%f0%9f%87%ad%f0%9f%87%b0_HK_%e9%a6%99%e6%b8%af_113
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh63wn4ewX0hLX+mmmea4r184NCIsDQogICJhZGQiOiAiaGszLmFmNDljNGU0YzJlZi5zYW5mZW4wMDEucGljcyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2ZGUyNjhlMC03YzQzLTRmYmUtODY0NC0yZjQxOGFjZTg4N2EiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInd3dy5taWNyb3NvZnQuY29tIiwNCiAgInBhdGgiOiAiL3poLWNuIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
+trojan://35eb4bae-2348-42f8-9010-1c7b229df23f@awsjp5-data.amazon-azure.com:443?allowInsecure=1&sni=data.amazon-azure.com#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_38
