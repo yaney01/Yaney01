@@ -1,6 +1,6 @@
 # 🚀 每天分享节点、限免应用、TF应用
 ### 🔈 TG电报频道： [@yaney_01](https://t.me/yaney_01) 
-### 🔈 TGt讨论组 [yaney的小院,打造一个知识星球](https://t.me/yaneyoo) 
+### 🔈 TGt讨论组 [yaney的小院](https://t.me/yaneyoo) 打造一个知识星球
 ### 🔔 加入频道获取更多高速节点、机场订阅、TG代理等等  
 ***
 ### 🔗  频道永久订阅
