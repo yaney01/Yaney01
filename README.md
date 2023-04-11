@@ -11,6 +11,7 @@
 #### 建议每天更新下订阅
 ### 今日尝鲜
 <img width="853" alt="image" src="https://user-images.githubusercontent.com/53202722/231021659-aa475783-5f3f-4210-9c55-af2670ef045e.png">
+
 ```
 ss://YWVzLTEyOC1jdHI6ZG91Yi5pbw@20.243.255.134:2333#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvSIsDQogICJhZGQiOiAiMTQyLjQuMTA0LjIxNSIsDQogICJwb3J0IjogIjUwMzAyIiwNCiAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsDQogICJhaWQiOiAiNjQiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
