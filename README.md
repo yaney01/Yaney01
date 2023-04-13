@@ -1,6 +1,6 @@
 # 🚀 每天分享节点、限免应用、TF应用
 ### 🔈 TG电报频道： [@yaney_01](https://t.me/yaney_01) 
-### 🔈 TGt讨论组 [Yaney's Little Courtyard](https://t.me/+caB8IkK7JvMzM2I1)
+### 🔈 TG讨论组： [Yaney's Little Courtyard](https://t.me/+caB8IkK7JvMzM2I1)
 ### 🔔 加入频道和讨论组获取更多高速节点、脚本等等  
 ***
 ### 🔗  频道永久订阅
