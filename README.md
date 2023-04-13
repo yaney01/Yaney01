@@ -23,6 +23,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6/wn4e1X0pQX+aXpeacrF8yMjkiLA0KICAiYWRkIjogImNmaXAueWFuZXkwMS5ldS5vcmciLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICIyZTQ5Njc1OC05NTBlLTQ1NDktODg0Mi1kNWVlYzk4ZDlmZGUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImhrLWh5dHJvbi5pbG92ZXNjcC5jb20iLA0KICAicGF0aCI6ICIvc2hpcmtlciIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@685365b.t2.gladns.com:2377/?plugin=simple-obfs%3bobfs%3dtls%3bobfs-host%3d685365b.dl.nintendo.net%3a13070#%f0%9f%87%b9%f0%9f%87%bc_TW_%e5%8f%b0%e6%b9%be_110
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzE3ZWJiNi1iYjQ2LTQ5YjktYjhjZi03YTJiZWIzNTJiNmY@a.gfw.services:51366#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_130
+```
 
+## Star History
 
-
+[![Star History Chart](https://api.star-history.com/svg?repos=yaney01/Yaney01&type=Date)](https://star-history.com/#yaney01/Yaney01&Date)
