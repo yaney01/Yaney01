@@ -27,4 +27,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzE3ZWJiNi1iYjQ2LTQ5YjktYjhjZi03YTJiZWIzNTJ
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yaney01/Yaney01&type=Date)](https://star-history.com/#yaney01/Yaney01&Date)
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwXzVxejVveDZ2bUtxc3FvbjdhWDRVS1A5TnJSZkNjZTNHTWoxag==#yaney01/Yaney01&Date" frameBorder="0"></iframe>
