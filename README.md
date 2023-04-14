@@ -26,4 +26,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6/wn4e1X0pQX+aXpeacrF8xNTgiLA0KICAi
 
 ```
 ***
+
 [![Star History Chart](https://api.star-history.com/svg?repos=yaney01/Yaney01&type=Date)](https://star-history.com/#yaney01/Yaney01&Date)
+
