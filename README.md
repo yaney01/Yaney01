@@ -33,3 +33,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6vwn4e3X0ZSX+azleWbvV8xNCIsDQogICJh
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yaney01/Yaney01&type=Date)](https://star-history.com/#yaney01/Yaney01&Date)
 
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yaney01/count.svg" />
+</p>
