@@ -23,8 +23,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7jwn4esX1NHX+aWsOWKoOWdoV80OCIsDQog
 ss://YWVzLTI1Ni1nY206NjRmYjI5M2YtYmM2Yy00NTBjLTg4NTUtZmVjYTA3Yjc3NDJl@gzdx.jcnode.top:43001#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_148
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.71.40:443#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_152
 trojan://e80ce621-ace4-4a45-ba0f-6a3c10293564@sg.stablize.top:443?allowInsecure=1#%f0%9f%87%b8%f0%9f%87%ac_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_157
-
 ```
+
 ***
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yaney01/Yaney01&type=Date)](https://star-history.com/#yaney01/Yaney01&Date)
