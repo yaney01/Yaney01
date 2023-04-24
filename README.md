@@ -11,7 +11,7 @@
 #### 建议每天更新下订阅
 ### 今日尝鲜
 
-<img width="827" alt="image" src="https://user-images.githubusercontent.com/53202722/233960961-ec253541-3756-4cbe-99be-e640f6ec3d46.png">
+
 
 ```
 trojan://c08f1ece-1731-45c3-9c05-0fc47a6dc0a6@a022.zhuan99.men:10022#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_1
