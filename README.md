@@ -1,3 +1,9 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yaney01/count.svg" />
+</p>
+
+
 # 🚀 每天分享节点、限免应用、TF应用
 ### 🔈 TG电报频道： [@yaney_01](https://t.me/yaney_01) 
 ### 🔈 TG讨论组： [Yaney's Little Courtyard](https://t.me/+caB8IkK7JvMzM2I1)
@@ -32,8 +38,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4emX1VBX+S5jOWFi+WFsF8xMzQiLA0K
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yaney01/Yaney01&type=Date)](https://star-history.com/#yaney01/Yaney01&Date)
 
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yaney01/count.svg" />
-</p>
