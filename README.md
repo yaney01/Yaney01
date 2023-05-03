@@ -1,8 +1,4 @@
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yaney01/count.svg" />
-</p>
-
+   ![:name](https://count.getloli.com/get/@yaney01?theme=gelbooru-h)
 
 # 🚀 每天分享节点、限免应用、TF应用
 ### 🔈 TG电报频道： [@yaney_01](https://t.me/yaney_01) 
@@ -35,4 +31,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV82OCIsDQogICJh
 ***
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yaney01/Yaney01&type=Date)](https://star-history.com/#yaney01/Yaney01&Date)
-
+<details>
+<p align="left"> 
+  <summary>旧版白嫖怪统计</summary>
+  <img src="https://profile-counter.glitch.me/yaney01/count.svg" />
+</p>
+   </details>
