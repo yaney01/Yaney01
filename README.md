@@ -12,7 +12,7 @@
 ***
 #### 建议每天更新下订阅
 ### 今日尝鲜
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/53202722/236652027-e3a66a62-34ae-42ef-be5f-5be492f8fee7.png)
 
 
 ```
