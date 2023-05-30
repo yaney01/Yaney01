@@ -12,7 +12,8 @@
 ***
 #### 建议每天更新下订阅
 ### 今日尝鲜
-<img width="788" alt="image" src="https://github.com/yaney01/Yaney01/assets/53202722/5e88a805-97fa-4d94-8875-2f801506bc8e">
+<img width="788" alt="image" src="https://github.com/yaney01/Yaney01/assets/53202722/5e88a805-97fa-4d94-8875-2f801506bc8e">、
+
 ```
 ss://YWVzLTI1Ni1nY206NGIxNDZjYjAtMzM5Yi00YTA1LWI3MjQtNzk5MzYxNjkzNzVm@gy.xueshao.top:27566#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_137
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODliMzljMi1kYzhkLTQ1OTUtYTRjNS01NGI0ZmJhYjNmYzI@free.themars.top:32102#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_2
@@ -24,6 +25,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Dwn4e3X0tSX+mfqeWbvV8xNiIsDQogICJh
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Dwn4e3X0tSX+mfqeWbvV8zNSIsDQogICJhZGQiOiAia3I0Lmppc3V5dW4uY28iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNzc4NzYyYzEtMjUxYy00MTI1LWJhMTEtZmNlYjA3ODVkYjU4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJrcjQuamlzdXl1bi5jbyIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
 trojan://324f12c1-9520-4f7f-b80b-048c8ce2b5f7@us1.microsoft-orgwly.vip:80?allowInsecure=1&sni=us1.microsoft-orgwly.vip#%f0%9f%87%ba%f0%9f%87%b8_US_%e7%be%8e%e5%9b%bd_164
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV8xNCIsDQogICJhZGQiOiAiMjMuMjI0LjguMzgiLA0KICAicG9ydCI6ICI1NTMzMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-
-```
-
