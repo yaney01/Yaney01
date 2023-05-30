@@ -27,11 +27,3 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV8xNCIsDQogICJh
 
 ```
 
-***
-   [![Star History Chart](https://api.star-history.com/svg?repos=yaney01/Yaney01&type=Date)](https://star-history.com/#yaney01/Yaney01&Date)
-<details>
-     <summary>旧版白嫖怪统计</summary>
-   <p align="left"> 
-  <img src="https://profile-counter.glitch.me/yaney01/count.svg" />
-</p>
-   </details>
