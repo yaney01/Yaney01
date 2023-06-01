@@ -12,16 +12,17 @@
 ***
 #### 建议每天更新下订阅
 ### 今日尝鲜
-<img width="795" alt="image" src="https://github.com/yaney01/Yaney01/assets/53202722/aeb3c009-25e4-41eb-a215-3be1a559a41d">
+<img width="795" alt="image" src="https://github.com/yaney01/Yaney01/assets/53202722/a1bdebf5-d1ca-4270-8963-355edecb3c49">
 
 ```
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7jwn4esX1NHX+aWsOWKoOWdoV8xNDkiLA0KICAiYWRkIjogInMyLnp3dGc4ODguY29tIiwNCiAgInBvcnQiOiAiODIiLA0KICAiaWQiOiAiNTk3N2ZhNjctNTc5Zi0zNTIxLTljOGEtZTYyNTk2ZGU0NGY2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzMi56d3RnODg4LmNvbSIsDQogICJwYXRoIjogIi92MnJheSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Dwn4e3X0tSX+mfqeWbvV85MCIsDQogICJhZGQiOiAia3IyLmZ1cmlvdXNzcGVlZC5uZXQiLA0KICAicG9ydCI6ICIxMDAwMCIsDQogICJpZCI6ICI5OGNjNWEyMy1mM2NlLTQxZTQtYjBjMi01MGQxMTEwMmI2NmMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImtyMi5mdXJpb3Vzc3BlZWQubmV0IiwNCiAgInBhdGgiOiAiL2lsaHh2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6/wn4e1X0pQX+aXpeacrF83MCIsDQogICJhZGQiOiAiYmV0YS5kdXJvdi5pciIsDQogICJwb3J0IjogIjIwODIiLA0KICAiaWQiOiAiNjdjNWNlNDUtN2I0OC00NzNlLWJmMjUtZTRjODMwYjBlZDI0IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJjb250YWJvLWpwLXdpbi5paWlvLndpa2kiLA0KICAicGF0aCI6ICIvYXJpZXM/ZWQ9MjA0OCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MjM3MGM5NC0wNmM5LTQyYTQtYjE5NC01NzYwZjFiNDJmY2U@m3u8.cm.xfltd.cc:27762#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_152
-trojan://3ae28dee-52e9-4edb-a956-b71b358b6c32@sa.steamdownload.top:36713?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_79
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODliMzljMi1kYzhkLTQ1OTUtYTRjNS01NGI0ZmJhYjNmYzI@free.themars.top:32102#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_142
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6/wn4e1X0pQX+aXpeacrF8xMDYiLA0KICAiYWRkIjogImJldGEuZHVyb3YuaXIiLA0KICAicG9ydCI6ICI4ODgwIiwNCiAgImlkIjogIjY3YzVjZTQ1LTdiNDgtNDczZS1iZjI1LWU0YzgzMGIwZWQyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidm5wdC5paWlvLndpa2kiLA0KICAicGF0aCI6ICIvYXJpZXM/ZWQ9MjA0OCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV8yMCIsDQogICJhZGQiOiAiMTQyLjQuMTI3LjUiLA0KICAicG9ydCI6ICI1MzAxMyIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-trojan://5f15c618-09ff-41a4-8227-e77739bfae2d@sa.steamdownload.top:36633?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_114
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.228.28.229:443#%f0%9f%87%b8%f0%9f%87%ac_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_165
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.97.107:443#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_201
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.250.192:443#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_12
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezX0NOX+S4reWbvV8xOTQiLA0KICAiYWRkIjogImNkbi5qaWtlLmN5b3UiLA0KICAicG9ydCI6ICI1MDAzNCIsDQogICJpZCI6ICJiNjQ2NmRhZi1mYjQ1LTQ0ZjEtOTc1NC1hYWVjYzIzNDMwYzQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+trojan://e81cc1ac-76b2-4f3f-85e0-bee9e4e7c5b5@gzdx.jcnode.top:24003?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_106
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.251.42:443#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_143
+trojan://35c88d59-4650-4465-a1a9-ba43313c87af@gzdx.jcnode.top:20003?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_116
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NDU0OWY2Yi1jYWFmLTRlMTYtODFjYS1mNjc4ODY1NWZkM2I@m3u8.cm.xfltd.cc:27762#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_57
+trojan://bcbdafb2-f13a-4868-bbaf-e6a4aadf6be5@gzdx.jcnode.top:42000?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_100
+trojan://5f6c56a5-c1d7-4901-8f0c-b4e508cb3c78@gzdx.jcnode.top:20005?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_120
+trojan://09b7188a-adc0-4b7b-88bc-108a99afa180@gzdx.jcnode.top:42000?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_117
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.34.16:443#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_13
