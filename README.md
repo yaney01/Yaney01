@@ -12,18 +12,16 @@
 ***
 #### 建议每天更新下订阅
 ### 今日尝鲜
-<img width="785" alt="image" src="https://github.com/yaney01/Yaney01/assets/53202722/8b3fa8df-4fdc-4ae3-b149-1a8a25501c43">
+<img width="786" alt="image" src="https://github.com/yaney01/Yaney01/assets/53202722/8c2c096f-a585-4aed-afba-cd75c00f0050">
 
 ```
-trojan://5d3928ff-1b79-424f-bb58-fa267cab2e07@gzyd.jcnode.top:20005?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_140
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.215.46.225:443#%f0%9f%87%b8%f0%9f%87%ac_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_179
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.250.192:443#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_149
-trojan://b244e655-a76c-4801-b1ec-6cac34e2a51b@fscjp.fscloud123456789.com:443?allowInsecure=1#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_168
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.98:17754#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_148
-ss://YWVzLTEyOC1nY206OGRmYTI0MzItNGYxZi00OTAwLWE3YjgtOGNkYzg3MzM4OTYx@jsyd.aikun.online:20817#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_206
-trojan://b260a05d-a393-31dd-b455-e9d13a8502c1@6hkf1.102ctc.xyz:32558?allowInsecure=1#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_8
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7jwn4esX1NHX+aWsOWKoOWdoV81MSIsDQogICJhZGQiOiAiYmV0YS5kdXJvdi5pciIsDQogICJwb3J0IjogIjg4ODAiLA0KICAiaWQiOiAiYzc2NTQ5ODAtNzJmZS00OTJkLThiNmYtYTRjYjU1Yzk0YzJlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2bnB0LmlpaW8ud2lraSIsDQogICJwYXRoIjogIi9hcmllcz9lZD0yMDQ4IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-trojan://d0d24d5b-54ae-40a0-ab68-889dbd4b8a66@assets.flareai.site:13543?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_86
-trojan://4cfb5b98-5a9d-4c6d-8911-25deca297fa1@air-chuncheon24.900513.xyz:7728?allowInsecure=1#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_117
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.49.224:443#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_151
-trojan://TJCfE7Mx2YcA8kX8zg@hk1.chuqiangtou.net:4003?allowInsecure=1&sni=hk1.chuqiangtou.net#%f0%9f%87%ae%f0%9f%87%b1_IL_%e4%bb%a5%e8%89%b2%e5%88%97_193
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.215.46.225:443#%f0%9f%87%b8%f0%9f%87%ac_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_101
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezX0NOX+S4reWbvV8yMjQiLA0KICAiYWRkIjogImd6ZHguamNub2RlLnRvcCIsDQogICJwb3J0IjogIjI4MDAxIiwNCiAgImlkIjogIjBmYWFkMTNhLTU2MTUtNDQxYS1iMzk1LTJlZjc2YjVkYjZhMyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZ3pkeC5qY25vZGUudG9wIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV8yMDQiLA0KICAiYWRkIjogImhhc2RoZi5ra2xsbGxra2trMy5yZXBsLmNvIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImViYTczOWM1LWYzMjktNDgxMi04OTUyLTRmNzI0M2QwMDc1YSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaGFzZGhmLmtrbGxsbGtra2szLnJlcGwuY28iLA0KICAicGF0aCI6ICIvZWJhNzM5YzUtZjMyOS00ODEyLTg5NTItNGY3MjQzZDAwNzVhLXZtIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
+trojan://213ad026-e59f-4cf5-9d97-788c689db110@gzdx.jcnode.top:25001?allowInsecure=1&sni=id01.ckcloud.info#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_218
+trojan://52bab5a6-ae56-4706-84ad-4101565a70b9@gzdx.jcnode.top:20003?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODliMzljMi1kYzhkLTQ1OTUtYTRjNS01NGI0ZmJhYjNmYzI@free.themars.top:32102#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_158
+trojan://7f17b46e-45cb-4384-8d8f-a3e148b2ab93@gzdx.jcnode.top:22000?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_27
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.98:17754#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_93
+trojan://ecb28849-cfb8-4d2c-84a4-07783409a9d4@gzdx.jcnode.top:25001?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_232
+trojan://54b978d8-9811-44cb-95ff-c2d6cc319963@gzdx.jcnode.top:49000?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_233
