@@ -12,17 +12,17 @@
 ***
 #### 建议每天更新下订阅
 ### 今日尝鲜
-![image](https://github.com/yaney01/Yaney01/assets/53202722/2b843f5c-befe-48a7-8629-10bb8e80f17f)
+![image](https://github.com/yaney01/Yaney01/assets/53202722/bd743369-5d4f-4188-a0ab-38012788d05a)
 
 ```
-trojan://63f6c1af-6600-3a7c-b1e6-7399ae2d68de@gg.xn--gmqa02ag57d.com:20139?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_2
-trojan://63f6c1af-6600-3a7c-b1e6-7399ae2d68de@gg.xn--gmqa02ag57d.com:22741?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_405
-trojan://f0fb37ad-8603-3e1d-b1c4-66e57ad24e3f@gg.xn--gmqa02ag57d.com:20140?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_346
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezX0NOX+S4reWbvV84MiIsDQogICJhZGQiOiAic2hjazhicS5vbGI4cXNnLnRvcCIsDQogICJwb3J0IjogIjI3OTU4IiwNCiAgImlkIjogIjhlMDJmY2Q2LTRmZmItNDRiNy1iMzk3LWYzNTQ5ZjMyOTM3YyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?allowInsecure=1#%f0%9f%87%b8%f0%9f%87%ac_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_114
-trojan://2de6f621-4397-4622-8dad-9df790a66bdb@fschk.fscloud123456789.com:443?allowInsecure=1#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_123
-ss://YWVzLTI1Ni1jZmI6Yzk3ZmNlMDQ4@140.238.52.171:18888#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_122
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@212.102.47.198:443#%f0%9f%87%ba%f0%9f%87%b8_US_%e7%be%8e%e5%9b%bd_464
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#%f0%9f%87%ba%f0%9f%87%b8_US_%e7%be%8e%e5%9b%bd_438
-trojan://TJCfE7Mx2YcA8kX8zg@jp3.chuqiangtou.net:4003?allowInsecure=1&sni=jp3.chuqiangtou.net#%f0%9f%87%ae%f0%9f%87%b1_IL_%e4%bb%a5%e8%89%b2%e5%88%97_477
-trojan://a7d5f659-6ad2-4288-b63a-3d42bdf5b122@jp5.cnamazon.sbs:443?allowInsecure=1&sni=jp5.cnamazon.sbs#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_458
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.38.166.251:443#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_219
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZTc1OGEyOC0yZTU3LTRmZGQtODU0OC00YWUyZTQ5MGJjZmY@gd-cm.32jr.com:56018#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_176
+trojan://643376cf-6164-3cac-85cf-d4610081b19f@dhktrf1.102ctc.xyz:30301?allowInsecure=1#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_78
+trojan://20d40a35-6555-3d85-8f77-84f0cbd722e1@gg.xn--gmqa02ag57d.com:30767?allowInsecure=1&sni=z61.hongkongnode.top#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_40
+ss://YWVzLTEyOC1nY206MmIyZGEwMzYtNjVhYy00MTNlLThlMjgtMDgyNDI5YmZiNjEz@fast.wl-node1.com:39013#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_107
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV8xNzciLA0KICAiYWRkIjogIjE1Ni4yMjUuNjcuNzYiLA0KICAicG9ydCI6ICI0NTI0MyIsDQogICJpZCI6ICIzZTAxNmM0ZC05ODZlLTQyZGYtODM4Yy02MDQ2ZjNkODllY2YiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV84MiIsDQogICJhZGQiOiAiY2YtbHQuc2hhcmVjZW50cmUub25saW5lIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjJkNWQ4YjljLThlYzQtNGEzNy1iNjEwLTc4ZTcxZTEzZWFlZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYWVzLTEyOC1nY20iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImx2MS5zaGFyZWNlbnRyZXByby5vcmciLA0KICAicGF0aCI6ICIvc2hpcmtlciIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4e3X0NSX+WTpeaWr+i+vum7juWKoF8xOCIsDQogICJhZGQiOiAiMTkwLjkzLjI0NS4yNDgiLA0KICAicG9ydCI6ICIyMDUyIiwNCiAgImlkIjogIjcxYjkzMDQ2LTliNmItNDhkNS1jNWZiLTk5OTdkYWYwYzdmNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAieDEueWxrczAxLmV1Lm9yZyIsDQogICJwYXRoIjogIi95bGtzIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezX0NOX+S4reWbvV8yMSIsDQogICJhZGQiOiAiZ3pkeC5qY25vZGUudG9wIiwNCiAgInBvcnQiOiAiMjgwMDAiLA0KICAiaWQiOiAiNTNkZmVkMTAtNGYzMi00NGFlLWJhNGYtZjg4OTE3ZjkyZDFjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnemR4Lmpjbm9kZS50b3AiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+trojan://749a1003-2dd6-4ea5-b964-2382b0ae99f7@ovotw.ovogreat.com:443?allowInsecure=1#%f0%9f%87%b8%f0%9f%87%ac_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_165
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6nwn4eqX0RFX+W+t+WbvV8xMDIiLA0KICAiYWRkIjogIjE1Ny45MC4xNzQuMjAiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJhNjQ1N2QyOC1lMzI4LTQyMDItOTlmZS0wNjA2ZDdhZDY5YTkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjE1Ny45MC4xNzQuMjAiLA0KICAicGF0aCI6ICIvNnJYcWVjTG1jaHJXa1g3Y3kxaWxMak1CTFVDIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
