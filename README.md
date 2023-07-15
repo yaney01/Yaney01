@@ -12,16 +12,14 @@
 ***
 #### 建议每天更新下订阅
 ### 今日尝鲜
-<img width="568" alt="image" src="https://github.com/yaney01/Yaney01/assets/53202722/9f910683-a898-40ac-b149-2c0c892d7d2b">
-
+![image](https://github.com/yaney01/Yaney01/assets/53202722/1cc9d771-ff4e-4d34-9f8a-5f557c6abf6c)
 ```
-trojan://334b58ea-d511-4d45-b8fa-35da1fc4d2dd@120.204.94.83:34004?allowInsecure=1#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_33
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV8yNzQiLA0KICAiYWRkIjogIjE2Mi4xNTkuMTM0LjI0OSIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjhjYjYxNTFkLTZhODUtNDQ1OC04MWRjLWYyMTVjNjJiYjkwYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYnBqYy50Lm1lLnBpYW81MjAwLm1vcmVlbWJ5LmNvbSIsDQogICJwYXRoIjogIi92aWRlb3MiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMGQ4ZGI4Yi01NzcwLTRlZGItOTQ3YS1jMDQ4ZjY5OTVlOTY@cm1-nc.go001.buzz:19531#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMGQ4ZGI4Yi01NzcwLTRlZGItOTQ3YS1jMDQ4ZjY5OTVlOTY@cm1-nc.go001.buzz:19584#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_27
-trojan://z3NtLA8ocb@ccarm.wasanbi.tk:58678?allowInsecure=1&sni=ccarm.wasanbi.tk#%f0%9f%87%b0%f0%9f%87%b7_KR_%e9%9f%a9%e5%9b%bd_117
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV8yNzUiLA0KICAiYWRkIjogIjE3Mi42Ny43MC4xNDEiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI4Y2I2MTUxZC02YTg1LTQ0NTgtODFkYy1mMjE1YzYyYmI5MGEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJwamMudC5tZS5waWFvNTIwMC5tb3JlZW1ieS5jb20iLA0KICAicGF0aCI6ICIvdmlkZW9zIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV8xOTgiLA0KICAiYWRkIjogIjE0Mi40LjExOC4yMjciLA0KICAicG9ydCI6ICI0ODkwMiIsDQogICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLA0KICAiYWlkIjogIjY0IiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvV8yNzYiLA0KICAiYWRkIjogImNmY2RuMi5zYW5mZW5jZG4ubmV0IiwNCiAgInBvcnQiOiAiMjA1MiIsDQogICJpZCI6ICI4MjE2ZTFmZC03ZjY3LTQ0MGQtOWE2My01MWQwZjZjMzhiMTAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInVzNi5zYW5mZW5jZG4yLmNvbSIsDQogICJwYXRoIjogIi96aC1jbiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezX0NOX+S4reWbvV8yIiwNCiAgImFkZCI6ICJ6ejIuc2h5bmlhLnRvcCIsDQogICJwb3J0IjogIjQ4MDk1IiwNCiAgImlkIjogImNhODUyYWE3LTExOWQtM2Q4Yi05YWU1LWU1NGNjMzI4Zjg0YiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAienoyLnNoeW5pYS50b3AiLA0KICAicGF0aCI6ICIvYWRvYmUiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@52.221.214.113:443#%f0%9f%87%b8%f0%9f%87%ac_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_156
+trojan://de8b90d8-c401-46d3-a01f-87cd3e50a65d@hk7.yihaobao.xyz:443?allowInsecure=1#_HK_%e9%a6%99%e6%b8%af_109
+trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@4.193.201.42:443?allowInsecure=1&sni=ap.stablize.top#_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_39
+trojan://84d6b3b1-b75e-4f5a-806b-2d1037ecb33a@gzdx.jcnode.top:15579?allowInsecure=1&sni=jp02.ckcloud.info#_CN_%e4%b8%ad%e5%9b%bd_67
+trojan://f0e8e2c0-23e0-4161-9586-a56c66846e28@13.208.242.30:10155?allowInsecure=1&sni=jpnf.tangreny.com#_JP_%e6%97%a5%e6%9c%ac_2
+trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@vpnhat.stablize.top:443?allowInsecure=1&sni=vpnhat.stablize.top#_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_44
+trojan://2f8b959c-6b33-48ad-9ca6-0622c2de705b@vpnpool.stablize.top:443?allowInsecure=1&sni=vpnpool.stablize.top#_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_12
+trojan://7ea37e4f-325b-416f-901a-67012367307f@ust1.greenssh.xyz:80?allowInsecure=1&sni=ust1.greenssh.xyz#_US_%e7%be%8e%e5%9b%bd_106
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@54.36.115.241:989#_FR_%e6%b3%95%e5%9b%bd_70
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQaGlsRWhnS0pRNTQwTU5LN21Ob2lt@185.135.86.86:51348#_LV_%e6%8b%89%e8%84%b1%e7%bb%b4%e4%ba%9a_45
