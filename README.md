@@ -12,7 +12,8 @@
 ***
 #### 建议每天更新下订阅
 ### 今日尝鲜
-![Uploading image.png…]()
+<img width="571" alt="image" src="https://github.com/yaney01/Yaney01/assets/53202722/22c89cb2-fa22-4eb1-821e-0bc200e32454">
+
 
 ```
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.64.230.155:443#%f0%9f%87%af%f0%9f%87%b5+JP+%e6%97%a5%e6%9c%ac+240
@@ -25,4 +26,4 @@ trojan://ff2df0a6-2cd2-4ba1-a635-aca03cc45718@us2.microsoft-orgwly.vip:10047?all
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.86.167.230:443#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+110
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.85.46.131:443#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+75
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.254.183:443#%f0%9f%87%b0%f0%9f%87%b7+KR+%e9%9f%a9%e5%9b%bd+199
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.212.54.48:443#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+109
+
