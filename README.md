@@ -12,18 +12,16 @@
 ***
 #### 建议每天更新下订阅
 ### 今日尝鲜
-<img width="571" alt="image" src="https://github.com/yaney01/Yaney01/assets/53202722/22c89cb2-fa22-4eb1-821e-0bc200e32454">
-
+![Uploading image.png…]()
 
 ```
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.64.230.155:443#%f0%9f%87%af%f0%9f%87%b5+JP+%e6%97%a5%e6%9c%ac+240
-trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@j-p04.xingyunwu.top:50092?allowInsecure=1&sni=xingyunwu.top#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+253
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSAxMyIsDQogICJhZGQiOiAiMzYuMTUwLjI3LjMxIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiZGI4ZDEyZDUtMTk2OC00MTI1LWI3NzUtNzdkNTBhYTY1OTIzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIzNi4xNTAuMjcuMzEiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.108.109:443#%f0%9f%87%b0%f0%9f%87%b7+KR+%e9%9f%a9%e5%9b%bd+186
-trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@u-s01.xingyunwu.top:50028?allowInsecure=1&sni=u-s01.xingyunwu.top#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+260
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.212.14.137:443#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+115
-trojan://ff2df0a6-2cd2-4ba1-a635-aca03cc45718@us2.microsoft-orgwly.vip:10047?allowInsecure=1&sni=us2.microsoft-orgwly.vip#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+73
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.86.167.230:443#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+110
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.85.46.131:443#%f0%9f%87%ba%f0%9f%87%b8+US+%e7%be%8e%e5%9b%bd+75
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.254.183:443#%f0%9f%87%b0%f0%9f%87%b7+KR+%e9%9f%a9%e5%9b%bd+199
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Dwn4e3IEtSIOmfqeWbvSAxMTIiLA0KICAiYWRkIjogIjMuMzcuODkuMTgyIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiZGNkMTQ2ZWQtMTlmYS00YWViLWE4YzItMjgzZmUzYWEzODg4IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIzLjM3Ljg5LjE4MiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.115.249.238:443#%f0%9f%87%af%f0%9f%87%b5+JP+%e6%97%a5%e6%9c%ac+514
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.199.167.31:443#%f0%9f%87%af%f0%9f%87%b5+JP+%e6%97%a5%e6%9c%ac+54
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6/wn4e1IEpQIOaXpeacrCA1ODciLA0KICAiYWRkIjogIjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA0YS5ub2RlLWZvci1iaWdhaXJwb3J0LndpbiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkMjA4MmZlZi1mNzBjLTQ0ZWItYmQ4OS0zYmFhNmI0MWJlMGQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+trojan://telegram-id-privatevpns@3.125.112.65:22222?allowInsecure=1#%f0%9f%87%a9%f0%9f%87%aa+DE+%e5%be%b7%e5%9b%bd+71
+trojan://telegram-id-directvpn@18.168.82.245:22222?allowInsecure=1#%f0%9f%87%ac%f0%9f%87%a7+GB+%e8%8b%b1%e5%9b%bd+135
+trojan://c1b2f451-b488-40c7-8487-62b927f9c43d@gzdx0.156786.xyz:443?allowInsecure=1&sni=gzdx0.156786.xyz#%f0%9f%87%b9%f0%9f%87%bc+TW+%e5%8f%b0%e6%b9%be+328
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.212.142.50:443#%f0%9f%87%b8%f0%9f%87%ac+SG+%e6%96%b0%e5%8a%a0%e5%9d%a1+386
+trojan://a9aad274-e226-4716-a8d2-7f6516d880d1@jp3.yihaobao.xyz:10075?allowInsecure=1&sni=jp3.yihaobao.xyz#%f0%9f%87%af%f0%9f%87%b5+JP+%e6%97%a5%e6%9c%ac+107
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7Pwn4exIE5MIOiNt+WFsCAxMzIiLA0KICAiYWRkIjogIjE1Ny4yNDUuNjkuNjQiLA0KICAicG9ydCI6ICI0NTMxIiwNCiAgImlkIjogIjk0N2YyMzk2LTczZTMtNGEzNC1iN2Y2LTkzZWIxMzg2M2IzMSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
