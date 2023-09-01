@@ -12,17 +12,15 @@
 ***
 #### 建议每天更新下订阅
 ### 今日尝鲜
-![image](https://github.com/yaney01/Yaney01/assets/53202722/143259de-7f4d-434e-ade6-cbe82f4d3954)
-
+![image](https://github.com/yaney01/Yaney01/assets/53202722/527cf5cb-6182-4c83-a5ad-3eeb9fe9203c)
 ```
-ss://YWVzLTI1Ni1nY206MTIzNDU2@cm1-go.go001.buzz:31201#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+114
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYTJhNWE4OS03Mjc2LTRlNTUtOWM3OS1lZTY5M2MwYzZjMTE@gyvipzz.newbluecloud.top:27715#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+87
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ezIENOIOS4reWbvSA2MCIsDQogICJhZGQiOiAiZ3pkeC5qY25vZGUudG9wIiwNCiAgInBvcnQiOiAiMzA3MjUiLA0KICAiaWQiOiAiNTJiN2ZkNjAtZDM2NC00YmZkLTg2ODctZDViNzBkNDBlYmM5IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnemR4Lmpjbm9kZS50b3AiLA0KICAicGF0aCI6ICIvZmx5IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-ss://YWVzLTEyOC1nY206NmU1NDE4MjAtMjIwYy00YTY1LWIzYTUtMzc1YzdjNWIyMjYz@bbjcu.donghui.tech:32112#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+183
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYTJhNWE4OS03Mjc2LTRlNTUtOWM3OS1lZTY5M2MwYzZjMTE@gyvipzz.newbluecloud.top:52270#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+176
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.212.247.98:443#%f0%9f%87%b8%f0%9f%87%ac+SG+%e6%96%b0%e5%8a%a0%e5%9d%a1+17
-ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ@103.172.116.79:9044#%f0%9f%87%b8%f0%9f%87%ac+SG+%e6%96%b0%e5%8a%a0%e5%9d%a1+16
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4IFVTIOe+juWbvSAzNSIsDQogICJhZGQiOiAiZmQuc2hhYmlqaWNoYW5nLmNvbSIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjNjY2JjNTg1LWJhYTYtNGJjMy1iZDQ0LTViNmM1NDQwNmJmYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYXNiMy5zaGFiaWppY2hhbmcuY29tIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4IFVTIOe+juWbvSA4MiIsDQogICJhZGQiOiAiY2YtbHQuc2hhcmVjZW50cmUub25saW5lIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiNWY3NTFjNmUtNTBiMS00Nzk3LWJhOGUtNmZmZTMyNGEwYmNlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkcDQuaWxvdmVzY3AuY29tIiwNCiAgInBhdGgiOiAiL3NoaXJrZXIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.215.183.152:443#%f0%9f%87%b8%f0%9f%87%ac+SG+%e6%96%b0%e5%8a%a0%e5%9d%a1+196
-ss://YWVzLTI1Ni1nY206NmU1NDE4MjAtMjIwYy00YTY1LWIzYTUtMzc1YzdjNWIyMjYz@jp2.gameupload.top:23285#%f0%9f%87%a8%f0%9f%87%b3+CN+%e4%b8%ad%e5%9b%bd+136
+trojan://3d5b0368-02ee-35db-a8b3-2b4e978e3616@t-06.outrdp.xyz:14009?allowInsecure=1&sni=ip2648428075.mobgslb.tbcache.com#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_100
+trojan://3d5b0368-02ee-35db-a8b3-2b4e978e3616@s1.nfstream.click:13048?allowInsecure=1&sni=ip2648428075.mobgslb.tbcache.com#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_86
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.0.148.0:443#%f0%9f%87%b8%f0%9f%87%ac_SG_%e6%96%b0%e5%8a%a0%e5%9d%a1_118
+trojan://3d5b0368-02ee-35db-a8b3-2b4e978e3616@s1.nfstream.click:13001?allowInsecure=1&sni=ip2648428075.mobgslb.tbcache.com#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_107
+trojan://3d5b0368-02ee-35db-a8b3-2b4e978e3616@t-06.outrdp.xyz:14002?allowInsecure=1&sni=ip2648428075.mobgslb.tbcache.com#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_116
+trojan://telegram-id-privatevpns@3.123.234.62:22222?allowInsecure=1&sni=trj.rollingnext.co.uk#%f0%9f%87%a9%f0%9f%87%aa_DE_%e5%be%b7%e5%9b%bd_130
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDhkYjIxYS0zNDVkLTRlYjgtYjZlMy04NTlhNWQ2MzNkODE@free.node.kk-proxy.pro:54455#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_31
+trojan://3d5b0368-02ee-35db-a8b3-2b4e978e3616@s1.nfstream.click:13053?allowInsecure=1&sni=ip2648428075.mobgslb.tbcache.com#%f0%9f%87%a8%f0%9f%87%b3_CN_%e4%b8%ad%e5%9b%bd_48
+trojan://343f9a0c-494e-4c23-8adc-afb3f75c1294@kbawsjp1.aiopen.cfd:443?allowInsecure=1&sni=4-193-105-141.nhost.00cdn.com#%f0%9f%87%af%f0%9f%87%b5_JP_%e6%97%a5%e6%9c%ac_1
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6rwn4e4X0VTX+ilv+ePreeJmV8xNiIsDQogICJhZGQiOiAidjJub2RlMTAuYmlwYnVwdnBuLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkOGFmZjQ3OS1iZDM4LTQyNzUtOGRhOC0zYzg1MDlkZWRhYjAiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInYybm9kZTEwLmJpcGJ1cHZwbi5jb20iLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
