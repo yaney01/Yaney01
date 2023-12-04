@@ -15,8 +15,11 @@
 ### 今日尝鲜
 
 ```
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2087?encryption=none&security=tls&type=ws&sni=baipiao1.curly-train.pages.dev&host=baipiao1.curly-train.pages.dev&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_1
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2083?encryption=none&security=tls&type=ws&sni=baipiao1.curly-train.pages.dev&host=baipiao1.curly-train.pages.dev&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_2
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU4LjE5NS45Njo0NDM=#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD_3
-vless://3e51e5cd-93d5-40d1-a2bb-30c4df14c718@95.164.86.121:80?type=tcp&encryption=none&security=none&path=%2f#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_4
-
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?sni=glc-us3.windowsupdatea.com#%F0%9F%87%BA%F0%9F%87%B8*US*%E7%BE%8E%E5%9B%BD*1
+vmess://eyJhZGQiOiJqcC50YWtlc2hpLndpa2kiLCJ2IjoyLCJwcyI6IvCfh6jwn4e/KkNaKuaNt+WFiyoyIiwicG9ydCI6IjgwIiwiaWQiOiI1OTUxN2UwYi1hZTFjLTQxZDMtOWM0NC1jNDRjZWE2Zjc1NDYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkbC5rZ3ZuLmdhcmVuYW5vdy5jb20iLCJ0bHMiOiIiLCJwYXRoIjoiL3Rha2VzaGkud2lraSJ9
+trojan://65c3941e-46b9-42f6-9c89-daedf472b6db@141.94.221.127:80?sni=fr1-t.sshmax.xyz#%F0%9F%87%AB%F0%9F%87%B7*FR*%E6%B3%95%E5%9B%BD*3
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU4LjE5NS45Njo4MA==#%F0%9F%87%AB%F0%9F%87%B7*FR*%E6%B3%95%E5%9B%BD*4
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU4LjE5NS45NjoxMTA=#%F0%9F%87%AB%F0%9F%87%B7*FR*%E6%B3%95%E5%9B%BD*5
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU4LjE5NS45Njo0NDM=#%F0%9F%87%AB%F0%9F%87%B7*FR*%E6%B3%95%E5%9B%BD*6
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU4LjE5NS45NjoxMTA=#%F0%9F%87%AB%F0%9F%87%B7*FR*%E6%B3%95%E5%9B%BD*7
+vmess://eyJhZGQiOiIxMDMuMzAuMTEuOTAiLCJ2IjoyLCJwcyI6IvCfh7vwn4ezKlZOKui2iuWNlyo4IiwicG9ydCI6IjgwIiwiaWQiOiI4NmM1YmNkMy01MGQwLTQzMzYtYmUzYy1hNzA0ODhhMDRiNTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIxMDMuMzAuMTEuOTAiLCJ0bHMiOiIiLCJwYXRoIjoiL3ppbmdmYXN0LnZuIn0=
