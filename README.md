@@ -15,8 +15,11 @@
 ### 今日尝鲜
 
 ```
-trojan://01bc8fc5-a81d-40cf-93f8-1d40f0351953@other.kunlun-ppg.com:10848?security=tls&sni=alibaba-node.cn&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%A6%F0%9F%87%B9_AT_%E5%A5%A5%E5%9C%B0%E5%88%A9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5001#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-trojan://01bc8fc5-a81d-40cf-93f8-1d40f0351953@other.kunlun-ppg.com:10845?security=tls&sni=alibaba-node.cn&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%BA%F0%9F%87%A6_UA_%E4%B9%8C%E5%85%8B%E5%85%B0
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh7rwn4e4X1VTX+e+juWbvSIsDQogICJhZGQiOiAiYy5tYWMyd2luLnRvcCIsDQogICJwb3J0IjogIjgwODAiLA0KICAiaWQiOiAiYmExYWE5YWUtM2NhZC00NmE1LThkZmEtYjA5NzNjMzVhYmViIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJhY3F1aXJlLWNsZWFuZXJzLWNhbWVsLXRlcnJvci50cnljbG91ZGZsYXJlLmNvbSIsDQogICJwYXRoIjogIi9hcmdveC12bT9lZD0yMDQ4IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6vwn4e3X0ZSX+azleWbvSIsDQogICJhZGQiOiAiczEuMTlrYWxhLmNvIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjU3NzVkZTdlLTBjMmUtNGU3Yy04YjljLWM0ODcwNGQ4ZmFjYiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiczEuMTlrYWxhLmNvIiwNCiAgInBhdGgiOiAiL09XVHU0Uk1rRjlWMTJvTzVOTGxRayIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaTlyUG1kZ1pMQVBEeVlkWlJQa1VUc2szM3lBVXRCWmdDb2tIK2ZVQlB3PQ@bcn.quickv2.com:15003#TG%3adns68%2c%2bVietnam-A%0d
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaTlyUG1kZ1pMQVBEeVlkWlJQa1VUc2szM3lBVXRCWmdDb2tIK2ZVQlB3PQ@bcn.quickv2.com:18002#TG%3adns68%2c%2bVietnam-C%0d
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaTlyUG1kZ1pMQVBEeVlkWlJQa1VUc2szM3lBVXRCWmdDb2tIK2ZVQlB3PQ@cnsh.quickv2.com:15005#%f0%9f%87%ad%f0%9f%87%b0Hong%2bKong-A%0d
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaTlyUG1kZ1pMQVBEeVlkWlJQa1VUc2szM3lBVXRCWmdDb2tIK2ZVQlB3PQ@bcn.quickv2.com:18003#%f0%9f%87%b9%f0%9f%87%bcTaiwan-A%2b%0d
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaTlyUG1kZ1pMQVBEeVlkWlJQa1VUc2szM3lBVXRCWmdDb2tIK2ZVQlB3PQ@bcn.quickv2.com:18004#%f0%9f%87%b9%f0%9f%87%bcTaiwan-B%2b%0d
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaTlyUG1kZ1pMQVBEeVlkWlJQa1VUc2szM3lBVXRCWmdDb2tIK2ZVQlB3PQ@cnsh.quickv2.com:27032#%f0%9f%87%ba%f0%9f%87%b8Phoenix%2c%2b%e7%a6%8f%e5%88%a9%e5%a4%9a%e5%a4%9a%0d
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaTlyUG1kZ1pMQVBEeVlkWlJQa1VUc2szM3lBVXRCWmdDb2tIK2ZVQlB3PQ@cnsh.quickv2.com:15013#%f0%9f%87%ba%f0%9f%87%b8Seattle%2c%2b%e7%a6%8f%e5%88%a9%e5%a4%9a%e5%a4%9a%0d
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaTlyUG1kZ1pMQVBEeVlkWlJQa1VUc2szM3lBVXRCWmdDb2tIK2ZVQlB3PQ@bcn.quickv2.com:15007#%f0%9f%87%b8%f0%9f%87%acTG%3a%40dns68+%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9-A%2b%0d
