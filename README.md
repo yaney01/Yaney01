@@ -15,18 +15,10 @@
 ### 今日尝鲜
 
 ```
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.58.148:8443?encryption=none&security=tls&sni=krsg14.wang66.homes&type=ws&host=krsg14.wang66.homes&path=%2fblue#%f0%9f%87%ba%f0%9f%87%b8%2f+US%2f+%e7%be%8e%e5%9b%bd%2f+68
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@49.51.204.35:443?encryption=none&security=tls&sni=sg14.wang66.homes&type=ws&host=sg14.wang66.homes&path=%2fblue#%f0%9f%87%ba%f0%9f%87%b8%2f+US%2f+%e7%be%8e%e5%9b%bd%2f+99
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.192.98:443?encryption=none&security=tls&sni=jp14.wang66.homes&type=ws&host=jp14.wang66.homes&path=%2fyoutube-%e7%94%b1%e9%9b%b6%e9%96%8b%e5%a7%8b#%f0%9f%87%ba%f0%9f%87%b8%2f+US%2f+%e7%be%8e%e5%9b%bd%2f+115
-vless://8431cdce-8912-47ec-9014-005f5e8bd981@replit1.sylarsun.eu.org:443?encryption=none&security=tls&type=ws&sni=replit1.sylarsun.eu.org&host=replit1.sylarsun.eu.org&path=%2f8431cdce-8912-47ec-9014-005f5e8bd981-vl#%F0%9F%87%BA%F0%9F%87%B8%20%20US%20%20%E7%BE%8E%E5%9B%BD%20%201
-ss://YWVzLTI1Ni1nY206NVl5NDl0RllxQXYzZ1ppQ09CaWpBajFCOXFzUEpLbWlhMUU5cFByNnRYaFZAc2gtY20uZ291Lnd0ZjozNzQ4NA==#%F0%9F%87%A8%F0%9F%87%B3%20%20CN%20%20%E4%B8%AD%E5%9B%BD%20%202
-vless://f7f24441-1e13-40df-a247-b8c42085d7bf@time.cloudflare.com:8443?encryption=none&security=tls&type=ws&sni=fine.sylar8.eu.org&host=fine.sylar8.eu.org&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%B8%20%20US%20%20%E7%BE%8E%E5%9B%BD%20%203
-vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?encryption=none&security=tls&type=ws&sni=w2.sylarsun.eu.org&host=w2.sylarsun.eu.org&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%B8%20%20US%20%20%E7%BE%8E%E5%9B%BD%20%204
-vless://853f7a50-4419-404f-bd00-8d7000403221@icook.hk:443?encryption=none&security=tls&type=ws&sni=t1.pureboy.eu.org&host=t1.pureboy.eu.org&path=%2fvls%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%B8%20%20US%20%20%E7%BE%8E%E5%9B%BD%20%205
-vless://78de9f6e-1b98-457b-b968-e0204eef03f3@my.pureboy8.repl.co:443?encryption=none&security=tls&type=ws&sni=my.pureboy8.repl.co&host=my.pureboy8.repl.co&path=%2f78de9f6e-1b98-457b-b968-e0204eef03f3-vl#%F0%9F%87%BA%F0%9F%87%B8%20%20US%20%20%E7%BE%8E%E5%9B%BD%20%206
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@w1.sylar8.eu.org:443?encryption=none&security=tls&type=ws&sni=w1.sylar8.eu.org&host=w1.sylar8.eu.org&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%B8%20%20US%20%20%E7%BE%8E%E5%9B%BD%20%207
-vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?encryption=none&security=tls&type=ws&sni=w3.sylarsun.eu.org&host=w3.sylarsun.eu.org&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%B8%20%20US%20%20%E7%BE%8E%E5%9B%BD%20%208
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?encryption=none&security=tls&type=ws&sni=3k.pureboy.eu.org&host=3k.pureboy.eu.org&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%B8%20%20US%20%20%E7%BE%8E%E5%9B%BD%20%209
-vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?encryption=none&security=tls&type=ws&sni=edgu.pureboy.eu.org&host=edgu.pureboy.eu.org&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%B8%20%20US%20%20%E7%BE%8E%E5%9B%BD%20%2010
-ss://YWVzLTI1Ni1nY206ZGF1REtlVzZSOVpWV3A4ZDZJZnRBSndSbVdZOHdWdUxIa2RsWDFaeFIwbmpAc2gtY20uZ291Lnd0ZjoyNTIxNA==#%F0%9F%87%A8%F0%9F%87%B3%20%20CN%20%20%E4%B8%AD%E5%9B%BD%20%2011
-vless://f7f24441-1e13-40df-a247-b8c42085d7bf@time.cloudflare.com:8880?encryption=none&security=tls&type=ws&sni=fine.sylar8.eu.org&host=fine.sylar8.eu.org&path=%2f%3fed%3d2048#%F0%9F%87%BA%F0%9F%87%B8%20%20US%20%20%E7%BE%8E%E5%9B%BD%20%2012
+trojan://fe823d74-fa7e-4dc1-b16b-480bc201a153@46.29.166.88:14866?sni=els_trojanone.yunjisuan.cf#%F0%9F%87%B7%F0%9F%87%BA%20.RU%20.%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20.1
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU4LjE5NS45Njo4MA==#%F0%9F%87%AB%F0%9F%87%B7%20.FR%20.%E6%B3%95%E5%9B%BD%20.2
+trojan://928dc6ee-495b-446f-9f20-883dedce564a@131.186.18.237:20152?sni=13-231-155-134.nhost.00cdn.com#%F0%9F%87%B0%F0%9F%87%B7%20.KR%20.%E9%9F%A9%E5%9B%BD%20.3
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FANTEuMTU4LjE5NS45NjoxMTA=#%F0%9F%87%AB%F0%9F%87%B7%20.FR%20.%E6%B3%95%E5%9B%BD%20.4
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FAMTM1LjEyNS4xNzIuMTUzOjQ0Mw==#%F0%9F%87%AB%F0%9F%87%B7%20.FR%20.%E6%B3%95%E5%9B%BD%20.5
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2FAMTM1LjEyNS4xNzIuMTM5OjQ0Mw==#%F0%9F%87%AB%F0%9F%87%B7%20.FR%20.%E6%B3%95%E5%9B%BD%20.6
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjU2LjIxNDo0NDM=#%F0%9F%87%B0%F0%9F%87%B7%20.KR%20.%E9%9F%A9%E5%9B%BD%20.7
