@@ -7,5 +7,5 @@
 ***
 ### 🔗 频道永久订阅，TG讨论组查看
 ### 💡 建议每天更新下订阅
-https://gitlab.com/api/v4/projects/39360507/repository/files/data%2Fv2ray%2Fyaney.txt/raw?ref=main&private_token=glpat-3_DnasZCO1EoixHvDNjtf286MQp1Ojc4bG1nCw.01.121rq4fh3
+https://dlj.yaney.top/v2rayse
 ***
